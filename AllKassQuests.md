@@ -59,15 +59,21 @@ Ride to the **Two Rings** shrine quest and complete it. Make sure to talk to Kas
 
 Ride to Tabantha Stable. 
 
+Activate the Shrine.
+
 Get the 500 rupees from the fairy guy.
 
 > You can pick up the sword and axe here if you think you'll need it.
 
 > Do not stasis to Rito Village as that will require you to heal.
 
+Try and get some Flint on your way past the Talus.
+
 ### Divine Beast Vah Medoh
 
 Purchase 2-4 Sun Shrooms and cook them.
+
+Activate the Shrine.
 
 Talk to the Elder, then to the Wife.
 
@@ -105,4 +111,38 @@ Ride back past Kakariko and head to Hateno.
 
 Ride past Hateno Tower and down to the beach.
 
-Use 1 Gale 
+Use 1 Gale to get to Kass and finish the quest. 
+
+Use 1 Gale to get back to shore.
+
+Ride back up and past the Hinox Brothers to Faron.
+
+### Faron
+
+Do the **Song of Storms** Shrine Quest.
+
+Farosh should be flying around. Get a scale from him. DO NOT DIE.
+
+Walk or run to the **Forest Dragons Jaws** Shrine Quest. Talk to Kass and use gales to complete it.
+
+### Gerudo 
+
+Warp to Cryonis and fly through Gerudo to the Tower.
+
+Accept the **Sign of the Shadow** Shrine Quest from Kass. Use gales to get up there.
+
+Either wait for the sun or the moon to line up with the tower and shoot an arrow at it.
+
+### Under a Blood Moon
+
+Warp to Tabantha Stable, grab wood and some flint from deposits nearby if you still need them.
+
+You have time to grab a fire weapon if you need it. 
+
+Gale and talk to Kass.
+
+At this point you will have to wait until 11AM on the 7th day. After then, sit at a campfire twice and stand on the dias to finish the quest.
+
+### Final Song
+
+Warp back to Rito and listen to the final song.
