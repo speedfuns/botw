@@ -129,6 +129,8 @@ Walk or run to the **Forest Dragons Jaws** Shrine Quest. Talk to Kass and use ga
 
 Warp to Cryonis and fly through Gerudo to the Tower.
 
+> May be possible to reroute this earlier so that you can walk here without warping but you would also have to find a way get back.
+
 Accept the **Sign of the Shadow** Shrine Quest from Kass. Use gales to get up there.
 
 Either wait for the sun or the moon to line up with the tower and shoot an arrow at it.
@@ -136,6 +138,8 @@ Either wait for the sun or the moon to line up with the tower and shoot an arrow
 ### Under a Blood Moon
 
 Warp to Tabantha Stable, grab wood and some flint from deposits nearby if you still need them.
+
+> If you have time you can walk here too. Not safe in my opinion.
 
 You have time to grab a fire weapon if you need it. 
 
