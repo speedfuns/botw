@@ -2,15 +2,20 @@
 
 The goal is to complete the Four Divine Beasts and get the Master Sword, and then defeat Ganon.
 
+This route does not use any amiibo, but Smash Link can be used to spawn Epona instead of dealing with wild horses.
+
 [You can view a spreadsheet version of the route here.](https://docs.google.com/spreadsheets/d/12xBdQ8w3ZR8SDNGj0v9tfdZvRwqxNidf2cBP6MYhguk/edit#gid=0)
 
 ## Route
 
 ### Great Plateau
 
-Head towards the **Great Plateau Tower**. Grab **Hylian Shrooms** for safety going to Cryonis.
+Watch the intro and run down the hill to the right after stepping out of the Shrine of Resurrection.
+> Optional:  Grab **Hylian Shrooms** for safety going to Cryonis.
 
 Grab the **Woodcutter's Axe**.
+
+Get the **Hylian Herb** near the tree after the Zelda mini-cutscene.
 
 Grab some arrows passing the Bokoblins on the hill.
 
@@ -18,28 +23,104 @@ Use the Axe to bash away the **Boko Shield** and pick it up.
 
 Activate the **Great Plateau Tower**.
 
-Damage cancel to the base of the tower.
+Climb down the tower or perform a Fall Damage Cancel.
 
 Run to the **Magnesis Trial** and complete it. `(1/24)`
 
-> If you have DLC you can grab the ruby outside as well.
+> Optional: Grab the DLC Ruby outside for safety.
 
 Run over to **Bomb Trial** and grab more arrows along the way.
 
 Complete the **Bomb Trial**. `(2/24)`
 
-Jump and warp to the **Shrine of Resurrection**.
+Warp to the **Shrine of Resurrection**
 
-Grab some more Hylian Shrooms if you want and shield surf to the bridge.
+Head left and climb up the mountain.
+> Optional: Grab **Hylian Shrooms** for safety going to Cryonis.
+  
+Walk or shield surf to the broken bridge.
 
-Shield Jump over the bridge.
+Shield Jump over the gap.
 
 Climb to the **Cryonis Trial** and complete it. `(3/24)`
 
-Shield Surf to the **Stasis Trial**.
+Head to the **Stasis Trial**, make sure to heal on the way.
+> You can grab the Warm Doublet here if you prefer, if you want to skip cooking Sunshrooms in Rito Village.
 
-> You can grab the doublet here if you prefer, if you want to cook peppers later instead of Sunshrooms.
+Complete the **Stasis Trial** and grab the Sledgehammer inside. `(4/24)`
+> Optional: Get the **Traveler's Shield** for safety in case your Boko Shield is badly damaged or broken.
 
-Complete the **Stasis Trial**. `(4/24)`
+Boulder launch to Temple of Time and get the **Paraglider**.
 
-Boulder launch to Temple of Time and get the Paraglider.
+Get the Soldier's Bow from the chest.
+
+Perform a Stasis Launch or fly to Ya Naga and complete **Shatter the Heavens**, warp to Oman Au right after. `(5/24)`
+
+### Central and Ridgeland Region
+
+Grab **Hylian Herbs** and jump down the Plateau.
+
+Catch a wild horse or spawn Epona, then head to Bosh Kala and complete **The Wind Guides You** `(6/24)`
+
+Go to Riverside Stable and enter Wahgo Katta, complete **Metal Connections**. `(7/24)` 
+
+Head straight to Kaam Ya'tak shrine.
+
+Get Edge of Duality, 1x Guardian Sword, Knight's Broadsword and the Diamond from **Test of Power**, complete it. `(8/24)`
+
+Go to Katah Chuki shrine.
+
+Complete **A Minor Test of Strenght** using Edge of Duality. Grab the Royal Halberd at the end from the chest. `(9/24)`
+
+Head to Zalta Wa shrine and complete **Two Orbs to Guide You**. `(10/24)`
+
+Go to Tabantha Stable and drop your horse nearby.
+
+Enter Shae Loya and complete **Aim for the Moment**. `(11/24)`
+
+### Tabantha Stable
+
+Grab 3 **Spicy Peppers** and a **Torch**.
+
+Talk to Toren for 500 rupees.
+> If you grabbed the Warm Doublet, you should cook the Spicy Peppers right now and sell your Diamond to Beedle.
+
+Register your horse.
+
+Ride your horse OR perform a Stasis Launch to the area near the Stone Talus.
+
+Kill the **Stone Talus** and grab the ore.
+> You can grab the two yellow rupees in the Yiga Clan Hideout and skip killing the Talus.
+
+Ride your horse OR perform a Stasis Launch to Rito Village.
+
+### Rito Village
+
+Grab the Sledgehammer in the pillar right before entering the village.
+> Skip this if you chose not to kill the Stone Talus.
+
+Vah'Medoh cutscene
+
+Get 2 **Heart Containers** from the Goddess Statue, this will make Stasis Launches less risky.
+
+Head to the Rito Store, sell all your ore and buy 4 Sunshrooms.
+
+Go to the cooking pot and cook:
+ - 4 Sunshrooms for a Level 2 Cold Resistance meal.
+ - 3 Spicy Peppers for a Level 1 Cold Resistance meal.
+> If you grabbed the Warm Doublet skip going to the store and the cooking pot.
+
+> Optional: Rest until morning to avoid enemies in Wasteland later.
+
+Talk to the Elder, then talk to Saki for Revali's memory cutscene.
+
+Enter Akh Va'quot and complete **Windmills**. `(12/24)`
+
+Fly to Sha Warvo shrine and complete **Path of Hidden Winds**. `(13/24)`
+
+Enter the Flight Range and pick up the 10 arrows on the counter.
+
+Talk to Teba and complete the shooting minigame.
+
+Grab the **Falcon Bow**, eat Lvl. 2 Cold Resistance food and talk to Teba again.
+> If you grabbed to Warm Doublet eat instead the Lvl. 1 Cold Resistance food.
