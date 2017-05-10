@@ -4,21 +4,66 @@ Misc race. Starts with Revali's Gale and some items. Starts on the bridge after 
 
 ## Hyrule Castle Moat
 
-Rock below the bridge `[1/26]`
+`1/26` Rock below the bridge 
 
-Trail of Tears `[2/26]`
+`2/26` Trail of Tears
 
-Above the gate `[3/26]`
+`3/26` Above the gate
+
+`4/26` Coat of Arms under the Observation Room
+
+## Second Gatehouses
+
+`5/26` Paraglide east to the bombable rock
+
+Gale upwards
+
+`6/26` Top of the Second Gatehouse
 
 ## Observation Room
 
-Paraglide east to the bombable rock `[4/26]`
+`7/26` Balloon behind Malice
 
-Gale upwards `[1/3]`
+`8/26` Balloon in the distance
 
-Coat of Arms `[5/26]`
+## First Gatehouse
 
-Balloon behind Malice `[6/26]`
+`9/26` Northeast bombable rocks
 
-Balloon in the distance `[7/26]`
+`10/26` Top of the First Gatehouse
 
+`11/26` Rock on the wall south of the Gatehouse
+
+Enter the entrance west of the Observation Room
+
+## Corridors
+
+`12/26` Behind the Bombable wall under the First Gatehouse
+
+`13/26` 
+
+`14/26` 
+
+`15/26` 
+
+`16/26` 
+
+`17/26` 
+
+`18/26` 
+
+`19/26` 
+
+`20/26` 
+
+`21/26` 
+
+`22/26` 
+
+`23/26` 
+
+`24/26` 
+
+`25/26` 
+
+`26/26` 
