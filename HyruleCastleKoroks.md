@@ -36,34 +36,54 @@ Gale upwards
 
 Enter the entrance west of the Observation Room
 
-## Corridors
+## Guard's Chambers
 
 `12/26` Behind the Bombable wall under the First Gatehouse
 
-`13/26` 
+Get some weapons in Guard's Chambers if you want
 
-`14/26` 
+Go up and out to the courtyard, then down to the West Passage entrance
 
-`15/26` 
+## West Passage
 
-`16/26` 
+`13/26` Bird egg offering
 
-`17/26` 
+Go north and out
 
-`18/26` 
+`14/26` Pinwheel northwest of the Lockup entrance
 
-`19/26` 
+## Zelda's Study
 
-`20/26` 
+`15/26` Rock on the ledge outside the Study
 
-`21/26` 
+`16/26` Rock on the ledge towards the tower
 
-`22/26` 
+`17/26` On top of the study
 
-`23/26` 
+`18/26` Bombable wall north of Sanctum
 
-`24/26` 
+## Outer Castle
 
-`25/26` 
+`19/26` Lift rock near the Docks
 
-`26/26` 
+`20/26` Dive into the flowers east of last Korok
+
+Head south
+
+## East Passage
+
+`21/26` Melt the ice
+
+Go through the corridors
+
+`22/26` Bombable wall below the Second Gatehouse
+
+Go outside and east of the Second Gatehouse
+
+`23/26` Lift the rock on the wall
+
+`24/26` Sanctum balcony to spire
+
+`25/26` Balloon beneath the bell
+
+`26/26` Top of the Sanctum
