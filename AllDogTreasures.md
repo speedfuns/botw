@@ -47,46 +47,52 @@ Go to Rito Stable and take horse to **Snowfield Stable** `2/14`
 
 Stasis to **Serenne Stable** `3/14`
 
-Warp to Cryonis
-
-### Gerudo Desert
-
-Stasis to **Gerudo Canyon Stable** `4/14`
-
-Walk to **Kara Kara Bazaar** `5/14`
-
 ### Faron and Hateno
 
 Warp to Outskirt Stable and grab your horse
 
-Go to **Highland Stable** `6/14`
+Go to **Highland Stable** `4/14`
 
-Go to **Lakeside Stable** `7/14`
+Go to **Lakeside Stable** `5/14`
 
-Go to **Lurelin Village** `8/14`
+Go to **Lurelin Village** `6/14`
 
 Head north and through the mountains to Hateno
 
 Go to the village and sell everything, pay for your house and get Hudson to move
 
-Get the doggo from the ranch in **Hateno Village** `9/14`
+Get the doggo from the ranch in **Hateno Village** `7/14`
 
 ### Lanayru and Akkala
 
 Warp to Magnesis and grab a new horse or spawn another Epona, or warp to Outskirt Stable again and pull out your horse
 
-Go to **Riverside Stable** `10/14`
+Go to **Riverside Stable** `8/14`
 
-Go to **Woodlands Stable** `11/14`
+Go to **Woodlands Stable** `9/14`
 
-Go to **South Akkala Stable** `12/14`
+Go to **South Akkala Stable** `10/14`
 
-Go to **East Akkala Stable** `13/14`
+Go to **East Akkala Stable** `11/14`
 
 Warp back to South Akkala Stable and travel to Dah Hesho Shrine
 
 ### Tarrey Town
 
 gdsgjdaskghsgdasgfasdj
+
+---
+
+Warp to Cryonis
+
+### Gerudo Desert
+
+Stasis to **Gerudo Canyon Stable** `12/14`
+
+Walk to **Kara Kara Bazaar** `13/14`
+
+Get Rhondson to go to Tarrey Town
+
+---
 
 **Get the doggo** `14/14`
