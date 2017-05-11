@@ -6,6 +6,21 @@ This route does not use any amiibo, but Smash Link can be used to spawn Epona in
 
 [You can view a spreadsheet version of the route here.](https://docs.google.com/spreadsheets/d/12xBdQ8w3ZR8SDNGj0v9tfdZvRwqxNidf2cBP6MYhguk/edit#gid=0)
 
+### Rupee Usage
+
+Action | Cost
+------ | ------
+Register Horse | 20
+Sunshrooms | 64
+Gerudo Clothes | 600
+Rent Seal (1) | 20
+Shock Arrows | 420
+Rent Seal (2) | 20
+Fireproof Elixir | 60
+Flamebreaker Armor | 600
+**TOTAL** | **1804**
+
+
 ## Route
 
 ### Great Plateau
@@ -83,14 +98,23 @@ Enter Shae Loya and complete **Aim for the Moment**. `(11/24)`
 Grab 3 **Spicy Peppers** and a **Torch**.
 
 Talk to Toren for 500 rupees.
-> If you grabbed the Warm Doublet, you should cook the Spicy Peppers right now and sell your Diamond to Beedle.
+> If you grabbed the Warm Doublet, you should cook the 3 Spicy Peppers right now and sell your Diamond to Beedle.
 
 Register your horse.
 
 Ride your horse OR perform a Stasis Launch to the area near the Stone Talus.
 
-Kill the **Stone Talus** and grab the ore.
-> You can grab the two yellow rupees in the Yiga Clan Hideout and skip killing the Talus.
+Kill the **Rare Talus** using the Sledgehammer, you should get at least a total of **804 rupees worth of ore**. You can also get the Rare Deposit near the Talus for more rupees (this deposit is hidden behind a wall of breakable rocks).
+> If you got less than this amount you can grab more ore in the Yiga Clan Hideout later.
+
+Ore | Sell Price
+----- | -----
+Amber | 30
+Opal | 60
+Topaz | 180
+Ruby | 210
+Sapphire | 260
+Diamond | 500
 
 Ride your horse OR perform a Stasis Launch to Rito Village.
 
@@ -150,13 +174,53 @@ Walk through the mountains until you get to the Great Cliffs area.
 
 Catch a sand seal and head to Gerudo Town.
 
-
-> Note: **Daqo Chisay** shrine `(13/24)` can either be completed here, after getting Gerudo Clothes or after getting the Thunder Helm, depending on the strats you are using inside the shrine or personal preference.
+**IMPORTANT:** **Daqo Chisay** shrine `(14/24)` can either be completed here, after getting Gerudo Clothes or after getting the Thunder Helm, depending on the strats you are using inside the shrine or personal preference.
 
 Activate the Daqo Chisay shrine and talk to the guy nearby to activate the quest.
 
 Catch a sand seal and head to Kara Kara Bazaar.
 
-Use a Gale charge to get on top of the rock and buy the **Gerudo Clothes** (600 rupees). Warp back to Daqo Chisay.
+Use a Gale charge (1/3) to get on top of the rock and buy the **Gerudo Clothes** (600 rupees). Warp back to Daqo Chisay.
+
+Use a Gale charge (2/3) to get inside Gerudo Town and head directly to **Riju**, talk to her then talk to the Gerudo Chief Liana to start the Yiga Clan quest.
+
+Use a Gale charge (3/3) and rent a seal (20 rupees), head to the Yiga Clan Hideout evading any enemies rocks and enemies on the path. Eat your Level 1 Cold Resistance food if necessary.
+> Note: Using the last gale charge here is necessary to be able to de Vah'Naboris later with all 3 charges.
+
+### Yiga Clan Hideout
+
+Use the torch and burn the northeast curtain when entering the room. All the enemies should disappear after this.
+
+Wait for the guard to turn away and jump forward to the side of the big pillar, then climb it.
+
+Jump and fly directly behind the second guard and run as soon as possible to the ladder.
+
+Climb the ladder and pick at least **16 Mighty Bananas**.
+> A Level 3 Attack food is made with 4 bananas, for this route only four Lvl. 3 Attack meals are needed, you can grab extra bananas if you want.
+
+>(Optional) If you got a bad ore drop from the Rare Talus earlier there are several Topaz Gems in the last room, a silver rupee chest above the central platform and two yellow rupee chests hidden behind a curtain in the main room.
+
+Jump onto the central the platform and fly behind the guard making sure to not get seen.
+
+Break the 3 pots with the torch to get arrows.
+
+Magnesis the wall and enter the **Master Kogha** boss fight.
+
+Defeat Kohga using arrow and the Royal Halberd. Get the **Thunder Helm** from the chest and warp to Daqo Chisay.
+
+Climb and enter Gerudo Town, buy 30 Shock Arrows from the seller (420 rupees)
+> Sell the ore if you got any in the Yiga Hideout. You can also buy regular arrows for safety if you have extra rupees.
+
+Use a torch to lit up one of the cooking pots
+
+Use 4 Bananas to cook a Level 3 Attack meal at least four times (so you will end up using 16 bananas
+
+Go outside Riju's Room and talk to her to see Urbosa's Memory cutscene.
+
+Get the Sledgehammer near the silver rupee chest, then rent a seal (20 rupees).
+
+Head to the Watchtower and climb to the top and talk to Riju to start the Vah'Naboris fight.
+
+### Divine Beast Vah'Naboris
 
 (WIP)
