@@ -223,4 +223,8 @@ Head to the Watchtower and climb to the top and talk to Riju to start the Vah'Na
 
 ### Divine Beast Vah'Naboris
 
-(WIP)
+This fight is pretty straightforward. Use the **Great Eagle Bow** to shoot bomb arrows to Naboris' legs, just be careful with the laser shots. You should be using only 4 bomb arrows in this fight.
+
+For the dungeon, use the latest 3-Gale route (they should be recharged by now) to complete it.
+
+For the Thunderblight Ganon fight, do something xD (WIP)
