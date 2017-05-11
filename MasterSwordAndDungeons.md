@@ -119,8 +119,44 @@ Enter Akh Va'quot and complete **Windmills**. `(12/24)`
 Fly to Sha Warvo shrine and complete **Path of Hidden Winds**. `(13/24)`
 
 Enter the Flight Range and pick up the 10 arrows on the counter.
+> Optional: Grab the Shallow Bow for safety.
 
 Talk to Teba and complete the shooting minigame.
 
 Grab the **Falcon Bow**, eat Lvl. 2 Cold Resistance food and talk to Teba again.
 > If you grabbed to Warm Doublet eat instead the Lvl. 1 Cold Resistance food.
+
+### Divine Beast Vah'Medoh
+
+Defeat the Divine Beast by shooting bomb arrows to the laser guns. Make sure to not fail any shot or you will have to take an extra 5 arrows inside Vah'Medoh later.
+
+Free **Vah'Medoh** using the "mapless" route.
+> Make sure to grab the 5 Ice Arrows after the 4th terminal.
+> Optional: Grab the extra 5 Bomb Arrows after the last terminal if you missed any shots during the Vah'Medoh fight or for safety.
+
+Defeat Windblight Ganon using the Falcon Bow (very important that you use this bow). Grab the heart container after.
+
+After you get Revali's Gale, talk to the Elder and grab the **Great Eagle Bow** from the chest.
+> Optional: Rest at the cooking pot until Morning to avoid enemies in the Wasteland area.
+
+Teleport to the Cryonis shrine.
+
+### Wasteland Region
+
+Perform a stasis launch either with the wooden chest (harder but faster) or the Korok rock nearby (slower).
+
+Walk through the mountains until you get to the Great Cliffs area.
+> Optional: Grab the Gerudo Shield on one of the pillars for safety.
+
+Catch a sand seal and head to Gerudo Town.
+
+
+> Note: **Daqo Chisay** shrine `(13/24)` can either be completed here, after getting Gerudo Clothes or after getting the Thunder Helm, depending on the strats you are using inside the shrine or personal preference.
+
+Activate the Daqo Chisay shrine and talk to the guy nearby to activate the quest.
+
+Catch a sand seal and head to Kara Kara Bazaar.
+
+Use a Gale charge to get on top of the rock and buy the **Gerudo Clothes** (600 rupees). Warp back to Daqo Chisay.
+
+(WIP)
