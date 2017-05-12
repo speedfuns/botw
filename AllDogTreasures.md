@@ -1,10 +1,10 @@
 # All Dog Treasures RTA
 
-The goal is exactly what it sounds like, get all treasures revealed to you by dogs. This will require the completion of Tarrey Town. Timing ends when the last chest is opened.
+The goal is exactly what it sounds like, get all treasures revealed to you by dogs. This does not require the completion of Tarrey Town, but it will require some of it done for the dogs to appear. Timing ends when the last chest is opened.
 
-For Tarrey Town, you will need 3000 rupees and 30 wood to buy your house, then 110 wood to help build the town. This is 3000 rupees and 140 wood in total.
+For Tarrey Town, you will need 3000 rupees and 30 wood to buy your house, then 60 wood to help build the town. This is 3000 rupees and 90 wood in total.
 
-Another thing to note is that it requires 4 pieces of food to befriend a dog, so be sure to grab lots of fruit and meat throughout the run.
+Another thing to note is that it requires 3-4 pieces of food to befriend a dog, so be sure to grab lots of fruit and meat throughout the run.
 
 ## Location Map
 
@@ -43,9 +43,9 @@ Cook peppers
 
 Activate the Shrine
 
-Go to Rito Stable and take horse to **Snowfield Stable** `2/14`
+Go to Rito Stable and take horse to **Snowfield Stable (Black doggo)** `2/14`
 
-Stasis to **Serenne Stable** `3/14`
+Stasis to **Serenne Stable (Black doggo)** `3/14`
 
 ### Faron and Hateno
 
@@ -61,7 +61,7 @@ Head north and through the mountains to Hateno
 
 Go to the village and sell everything, pay for your house and get Hudson to move
 
-Get the doggo from the ranch in **Hateno Village** `7/14`
+Get the doggo from the ranch in **Hateno Village (Black and Tan doggo)** `7/14`
 
 ### Lanayru and Akkala
 
