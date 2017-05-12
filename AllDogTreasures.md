@@ -73,13 +73,13 @@ Go to **Woodlands Stable** `9/14`
 
 Go to **South Akkala Stable** `10/14`
 
-Go to **East Akkala Stable** `11/14`
-
 Warp back to South Akkala Stable and travel to Dah Hesho Shrine
 
 ### Tarrey Town
 
 Go get Greyson, the Goron, and send him to Tarrey Town
+
+Go to **East Akkala Stable** `11/14`
 
 Warp to Cryonis
 
