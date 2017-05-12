@@ -20,6 +20,13 @@ Fireproof Elixir | 60
 Flamebreaker Armor | 600
 **TOTAL** | **1804**
 
+### Pending Timings
+
+Warm Doublet VS. Sunshrooms
+
+Rito Village: Two Stasis Launches VS. Three Stasis Launches
+
+Flowers Shrine: Stasis Launch VS. Cryonis
 
 ## Route
 
@@ -158,7 +165,7 @@ Free **Vah'Medoh** using the "mapless" route.
 > Make sure to grab the 5 Ice Arrows after the 4th terminal.
 > Optional: Grab the extra 5 Bomb Arrows after the last terminal if you missed any shots during the Vah'Medoh fight or for safety.
 
-Defeat Windblight Ganon using the Falcon Bow (very important that you use this bow). Grab the heart container after.
+Defeat Windblight Ganon using the Falcon Bow (very important that you use this bow). Grab the **Heart Container** after.
 
 After you get Revali's Gale, talk to the Elder and grab the **Great Eagle Bow** from the chest.
 > Optional: Rest at the cooking pot until Morning to avoid enemies in the Wasteland area.
@@ -198,7 +205,7 @@ Jump and fly directly behind the second guard and run as soon as possible to the
 Climb the ladder and pick at least **16 Mighty Bananas**.
 > A Level 3 Attack food is made with 4 bananas, for this route only four Lvl. 3 Attack meals are needed, you can grab extra bananas if you want.
 
->(Optional) If you got a bad ore drop from the Rare Talus earlier there are several Topaz Gems in the last room, a silver rupee chest above the central platform and two yellow rupee chests hidden behind a curtain in the main room.
+>Optional: If you got a bad ore drop from the Rare Talus earlier there are several Topaz Gems in the last room, a silver rupee chest above the central platform and two yellow rupee chests hidden behind a curtain in the main room.
 
 Jump onto the central the platform and fly behind the guard making sure to not get seen.
 
@@ -227,4 +234,14 @@ This fight is pretty straightforward. Use the **Great Eagle Bow** to shoot bomb 
 
 For the dungeon, use the latest 3-Gale route (they should be recharged by now) to complete it.
 
-For the Thunderblight Ganon fight, do something xD (WIP)
+For the Thunderblight Ganon fight make sure to eat one of the **Level 3 Attack meals** and use the Great Eagle Bow with bomb arrows. Use the guardian sword to bring him down.
+
+Get the **Heart Container** after the fight.
+
+Obtain **Urbosa's Fury** and warp to Wahgo Katta.
+
+### Wetlands Area
+
+Go to Riverside Stable and take out your horse.
+> Optional: Pick up the axe if you need it.
+
