@@ -79,8 +79,6 @@ Warp back to South Akkala Stable and travel to Dah Hesho Shrine
 
 ### Tarrey Town
 
-gdsgjdaskghsgdasgfasdj
-
 Go get Greyson, the Goron, and send him to Tarrey Town
 
 Warp to Cryonis
