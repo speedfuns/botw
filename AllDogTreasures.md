@@ -81,11 +81,9 @@ Warp back to South Akkala Stable and travel to Dah Hesho Shrine
 
 gdsgjdaskghsgdasgfasdj
 
----
+Go get Greyson, the Goron, and send him to Tarrey Town
 
 Warp to Cryonis
-
-### Gerudo Desert
 
 Stasis to **Gerudo Canyon Stable** `12/14`
 
@@ -93,6 +91,6 @@ Walk to **Kara Kara Bazaar** `13/14`
 
 Get Rhondson to go to Tarrey Town
 
----
+Warp to Rito Village and send Flyson to Tarrey Town
 
 **Get the doggo** `14/14`
