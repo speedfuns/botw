@@ -252,9 +252,11 @@ Shield jump over the flowers and get back to your horse, ride until you see the 
 Go to Wetlands Stable and take out your horse once again.
 > Optional: Talk to Beedle to get an Ancient Arrow from him. Make sure to talk to him twice if it's the first time you speak to him.
 
-Cross the Wetlands and get into the wooden encampent to cross Zora's River.
+Cross the Wetlands and get 4 Fleet-Lotus Seeds, then get into the wooden encampent to cross Zora's River.
 
-Continue along the road to get to the Soh Kofi Shrine, complete **A Minor Test of Strenght** using the Edge of Duality. `(17/24)`
+Where the road splits in to you'll find a Lizalfos and a cooking pot, use a bomb arrow to kill it. Cook the 4 Fleet-Lotus Seeds to get a Level 3 Speed meal, eat it afterwards.
+
+Get to the Soh Kofi Shrine, complete **A Minor Test of Strenght** using the Edge of Duality. `(17/24)`
 
 Get on your horse and continue along the road until you see an Ice Wizzrobe. You can either perform a Stasis Launch or just fly to get to the Tah Muhl Shrine (it's hidden behind a arch-shaped rock formation). Complete **Passing the Flame**. `(18/24)`
 
