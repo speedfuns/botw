@@ -1,6 +1,6 @@
 # Master Sword and Dungeons (MSD)
 
-The goal is to complete the Four Divine Beasts and get the Master Sword, and then defeat Ganon.
+The goal is to complete the four Divine Beasts and get the Master Sword, and then defeat Ganon.
 
 This route does not use any amiibo, but Smash Link can be used to spawn Epona instead of dealing with wild horses.
 
@@ -17,8 +17,8 @@ Rent Seal (1) | 20
 Shock Arrows | 420
 Rent Seal (2) | 20
 Fireproof Elixir | 60
-Flamebreaker Armor | 600
-**TOTAL** | **1804**
+Flamebreaker Boots | 700
+**TOTAL** | **1904**
 
 ### Pending Timings
 
@@ -111,7 +111,7 @@ Register your horse.
 
 Ride your horse OR perform a Stasis Launch to the area near the Stone Talus.
 
-Kill the **Rare Talus** using the Sledgehammer, you should get at least a total of **804 rupees worth of ore**. You can also get the Rare Deposit near the Talus for more rupees (this deposit is hidden behind a wall of breakable rocks).
+Kill the **Rare Talus** using the Sledgehammer, you should get at least a total of **904 rupees worth of ore**. You can also get the Rare Deposit near the Talus for more rupees (this deposit is hidden behind a wall of breakable rocks).
 > If you got less than this amount you can grab more ore in the Yiga Clan Hideout later.
 
 Ore | Sell Price
@@ -205,7 +205,7 @@ Jump and fly directly behind the second guard and run as soon as possible to the
 Climb the ladder and pick at least **16 Mighty Bananas**.
 > A Level 3 Attack food is made with 4 bananas, for this route only four Lvl. 3 Attack meals are needed, you can grab extra bananas if you want.
 
->Optional: If you got a bad ore drop from the Rare Talus earlier there are several Topaz Gems in the last room, a silver rupee chest above the central platform and two yellow rupee chests hidden behind a curtain in the main room.
+> Optional: If you got a bad ore drop from the Rare Talus earlier there are several Topaz Gems in the last room, a silver rupee chest above the central platform and two yellow rupee chests hidden behind a curtain in the main room.
 
 Jump onto the central the platform and fly behind the guard making sure to not get seen.
 
@@ -245,3 +245,117 @@ Obtain **Urbosa's Fury** and warp to Wahgo Katta.
 Go to Riverside Stable and take out your horse.
 > Optional: Pick up the axe if you need it.
 
+Ride to the Hila Rao Shrine and complete **Drifting**. `(15/24)`
+
+Shield jump over the flowers and get back to your horse, ride until you see the Kaya Wan shrine on the other side of the river and use Cryonis to go over it, complete **Shileds from Water** `(16/24)`
+
+Go to Wetlands Stable and take out your horse once again.
+> Optional: Talk to Beedle to get an Ancient Arrow from him. Make sure to talk to him twice if it's the first time you speak to him.
+
+Cross the Wetlands and get into the wooden encampent to cross Zora's River.
+
+Continue along the road to get to the Soh Kofi Shrine, complete **A Minor Test of Strenght** using the Edge of Duality. `(17/24)`
+
+Get on your horse and continue along the road until you see an Ice Wizzrobe. You can either perform a Stasis Launch or just fly to get to the Tah Muhl Shrine (it's hidden behind a arch-shaped rock formation). Complete **Passing the Flame**. `(18/24)`
+
+### Eldin Region
+
+Head directly to the Foothill Stable. Buy at least **1 Fireproof Elixir** from the woman near the cooking pot.
+> Note: You can buy more Elixirs if you don't plan on buying an extra Flamebreaker piece on Goron City but want to take a safer a route during the Abandoned North Mines and the Vah'Rudania fight.
+
+Activate the Mo'a Keet Shrine and complete **Metal Makes a Path**. `(19/24)`
+
+Either fly to or perform a Stasis Launch (using a tree near the stable) and go to the Sah Dahaj Srhine, complete **Power of Fire**.`(20/24)`
+
+Climb the mountain on your left side and head to the withered trees on the other side of the Boko Base, DO NOT WHISTLE SPRINT.
+
+Perform a Rocket Launch using one of the 3 trees to get to the other side of the mountains.
+
+Use the Fireproof Elixir and climb the mountains (use 2 Gale charges) until you get to Daqa Koh Shrine, complete **Stalled Flight**. `(21/24)`
+
+Use your last Gale charge to go into Goron City, be careful with the falling rocks.
+
+Go to the clothing store and buy the **Flamebreaker Boots** (700 Rupees).
+> Optional: Buy also the Flamebreaker Armor for safety if you happen to have enough money (600 rupees).
+
+Talk to Bludo to activate the Vah'Rudania quest.
+
+Go to the Shae Mo'sah Shrine and activate it (but don't complete it).
+> The reason we don't complete this shrine yet is to optimize the Fireproof Elixir time for the Mine segment coming up.
+
+Grab one of the pots nearby and perform a Stasis Launch to the **Abandoned North Mines**. Make sure to kill the Octorok first.
+> Note: Depending on your speed, if you bought two Flamebreaker pieces and your Fireproof Elixirs you can skip this launch and just fly directly.
+
+Evade the Lizalfos and get to the last cannon, break the rocks to rescue Yunobo.
+
+Before talking to Yunobo, grab the Ice Arrows from the chest, then talk to him.
+> Optional: There are various two-handed weapons in this room, grab if you feel you might need some (recommended).
+
+Perform a pot stasis launch (slightly faster but riskier) or teleport back to Shae Mo'sah, complete **Swinging Flames**. `(22/24)`
+
+Talk to Bludo again for Daruk's Memory cutscene, you will recieve 3 Fireproof Elixirs afterwards.
+
+### Zora's Domain
+
+Teleport to Mo'a Keet and perform a Rocket Launch to get on top of the mountains near Zora.
+
+Fly directly to Zora's Domain and talk to King Dorephan to obtain the **Zora Armor**, equip it.
+
+Go directly to the Ne'ez Yohma shrine and pick up 4 Fleet-Lotus Seeds, complete **Pushing Power** afterwards. `(23/24)`
+
+Cook the Fleet-Lotus Seeds in the cooking pot nearby to obtain a Level 3 Speed meal and eat it.
+
+Talk to Sidon in front of Mipha's Statue to obtain her Memory.
+
+Head to the East Reservoir Lake and talk to Sidon.
+
+### Divine Beast Vah'Ruta
+
+Defeat Vah'Ruta using the Soldier's Bow and Shock Arrows.
+
+For the dungeon, use the latest route using the Lvl.3 Speed meal and 3 Gale charges.
+
+Defeat Waterblight Ganon using one of the Lvl. 3 Attack meals and Shock Arrows. Grab the **Heart Container**.
+
+After obtaining Mipha's Grace warp back to Daqa Koh Shrine.
+
+### Divine Beast Vah'Rudania
+
+Help Yunobo (once again) by defeating the two Moblins, use one of your Fury charges and a sword.
+
+Bring down the Bridge of Eldin to enter the Vah'Rudania fight.
+
+This "fight" is pretty straightforward, make sure Yunobo doesn't get caught and kill the mini-flying guardians with Metal Boxes. Use your second Fury charge for the first Moblin and Metal Boxes for the last two Moblins.
+
+Use the latest Vah'Rudania route. This dungeons uses quite a bit of arrows so be prepared. You can get some extra normal arrows from two chests in the middle room. Gale charge (1/3).
+
+For **Fireblight Ganon**, use the Great Eagle Bow (this bow burns after 33 seconds, so be careful and swap before to restart this timer) and Ice Arrows. For the first phase, use a Gale charge (2/3) to Flurry Rush and headshot him 3 times. Keep shooting to its head until the second phase.
+
+For the second phase, wait until it starts charging its attack and throw a bomb at it. Eat a Lvl. 3 Attack meal and perform a Flurry Rush by sidehopping off of one of the sides. Mipha's Grace should activate some time after this. Keep doing Flurry Rushes until it dies.
+> You can also use Fireproof Elixirs instead of Attack meals for a much safer fight, but it is slower.
+
+Grab the **Heart Container** after the fight and get Daruk's Protection.
+
+### Korok Forest
+
+Perform a pot Stasis Launch to go across the mountains.
+
+Use a Gale charge (3/3) and fly to the mountain right outside the Lost Woods.
+
+You can either perform a Stasis Launch or cross the Lost Woods the intended way.
+
+After getting into Korok Forest, go to the Keo Ruug Shrine and complete **Fateful Stars**. `(24/24)`
+
+Go to the Goddess' Statue inside the Deku Tree and use all your spirit orbs to get Heart Containers. You should have in total 13 hearts afterwards.
+
+Pick up the **Master Sword**.
+
+### Hyrule Castle
+
+Teleport to Katah Chuki, enter the Castle from the southwest side near the waterfall.
+
+Ride the waterfalls until you get to the Sanctum.
+
+Defeat Calamity Ganon.
+
+Defeat Beast Ganon.
