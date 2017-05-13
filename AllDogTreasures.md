@@ -8,8 +8,8 @@ Another thing to note is that it requires 3-4 pieces of food to befriend a dog, 
 
 ## Location Map
 
+This is NOT the order of the route, this map is to show locations only. *via GosuNoob.com*
 ![](http://static.gosunoob.com/img/1/2017/03/dog-treasure-locations-map-zelda-botw-1024x804.jpg)
-from GosuNoob.com
 
 ## Route
 
