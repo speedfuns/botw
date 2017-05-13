@@ -92,3 +92,5 @@ Get Rhondson to go to Tarrey Town
 Warp to Rito Village and send Flyson to Tarrey Town
 
 **Get the doggo** `14/14`
+
+*Thanks Strat for figuring that out, I guess. lol*
