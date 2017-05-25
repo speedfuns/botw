@@ -76,29 +76,27 @@ Boulder launch to Temple of Time and get the **Paraglider**.
 
 Get the Soldier's Bow from the chest.
 
-Perform a Stasis Launch or fly to Ya Naga and complete **Shatter the Heavens**, warp to Oman Au right after. `(5/24)`
-
 ### Central and Ridgeland Region
 
 Grab **Hylian Herbs** and jump down the Plateau.
 
-Catch a wild horse or spawn Epona, then head to Bosh Kala and complete **The Wind Guides You** `(6/24)`
+Catch a wild horse or spawn Epona, then head to Bosh Kala and complete **The Wind Guides You** `(5/24)`
 
-Go to Riverside Stable and enter Wahgo Katta, complete **Metal Connections**. `(7/24)` 
+Go to Riverside Stable and enter Wahgo Katta, complete **Metal Connections**. `(6/24)` 
 
 Head straight to Kaam Ya'tak shrine.
 
-Get Edge of Duality, 1x Guardian Sword, Knight's Broadsword and the Diamond from **Test of Power**, complete it. `(8/24)`
+Get Edge of Duality, 1x Guardian Sword, Knight's Broadsword and the Diamond from **Test of Power**, complete it. `(7/24)`
 
 Go to Katah Chuki shrine.
 
-Complete **A Minor Test of Strenght** using Edge of Duality. Grab the Royal Halberd at the end from the chest. `(9/24)`
+Complete **A Minor Test of Strenght** using Edge of Duality. Grab the Royal Halberd at the end from the chest. `(8/24)`
 
-Head to Zalta Wa shrine and complete **Two Orbs to Guide You**. `(10/24)`
+Head to Zalta Wa shrine and complete **Two Orbs to Guide You**. `(9/24)`
 
 Go to Tabantha Stable and drop your horse nearby.
 
-Enter Shae Loya and complete **Aim for the Moment**. `(11/24)`
+Enter Shae Loya and complete **Aim for the Moment**. `(10/24)`
 
 ### Tabantha Stable
 
@@ -145,9 +143,9 @@ Go to the cooking pot and cook:
 
 Talk to the Elder, then talk to Saki for Revali's memory cutscene.
 
-Enter Akh Va'quot and complete **Windmills**. `(12/24)`
+Enter Akh Va'quot and complete **Windmills**. `(11/24)`
 
-Fly to Sha Warvo shrine and complete **Path of Hidden Winds**. `(13/24)`
+Fly to Sha Warvo shrine and complete **Path of Hidden Winds**. `(12/24)`
 
 Enter the Flight Range and pick up the 10 arrows on the counter.
 > Optional: Grab the Shallow Bow for safety.
@@ -181,7 +179,7 @@ Walk through the mountains until you get to the Great Cliffs area.
 
 Catch a sand seal and head to Gerudo Town.
 
-**IMPORTANT:** **Daqo Chisay** shrine `(14/24)` can either be completed here, after getting Gerudo Clothes or after getting the Thunder Helm, depending on the strats you are using inside the shrine or personal preference.
+**IMPORTANT:** **Daqo Chisay** shrine `(13/24)` can either be completed here, after getting Gerudo Clothes or after getting the Thunder Helm, depending on the strats you are using inside the shrine or personal preference.
 
 Activate the Daqo Chisay shrine and talk to the guy nearby to activate the quest.
 
@@ -245,12 +243,14 @@ Obtain **Urbosa's Fury** and warp to Wahgo Katta.
 Go to Riverside Stable and take out your horse.
 > Optional: Pick up the axe if you need it.
 
-Ride to the Hila Rao Shrine and complete **Drifting**. `(15/24)`
+Ride to the Hila Rao Shrine and complete **Drifting**. `(14/24)`
 
-Shield jump over the flowers and get back to your horse, ride until you see the Kaya Wan shrine on the other side of the river and use Cryonis to go over it, complete **Shileds from Water** `(16/24)`
+Shield jump over the flowers and get back to your horse, ride until you see the Kaya Wan shrine on the other side of the river and use Cryonis to go over it, complete **Shileds from Water** `(15/24)`
 
 Go to Wetlands Stable and take out your horse once again.
 > Optional: Talk to Beedle to get an Ancient Arrow from him. Make sure to talk to him twice if it's the first time you speak to him.
+
+Ride to the Daka Tuss Shrine and complete **Sunken Scoop**. `(16/24)` 
 
 Cross the Wetlands and get 4 Fleet-Lotus Seeds, then get into the wooden encampent to cross Zora's River.
 
