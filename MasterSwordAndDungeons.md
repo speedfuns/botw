@@ -6,6 +6,10 @@ This route does not use any amiibo, but Smash Link can be used to spawn Epona in
 
 [You can view a spreadsheet version of the route here.](https://docs.google.com/spreadsheets/d/12xBdQ8w3ZR8SDNGj0v9tfdZvRwqxNidf2cBP6MYhguk/edit#gid=0)
 
+### Changelog
+
+25/05/2017 - Changed route to include Warm Doublet
+
 ### Rupee Usage
 
 Action | Cost
@@ -74,7 +78,7 @@ Complete the **Stasis Trial** and grab the Sledgehammer inside. `(4/24)`
 
 Boulder launch to Temple of Time and get the **Paraglider**.
 
-Get the Soldier's Bow from the chest.
+Get the Soldier's Bow from the chest, teleport to Oman Au.
 
 ### Central and Ridgeland Region
 
@@ -86,11 +90,11 @@ Go to Riverside Stable and enter Wahgo Katta, complete **Metal Connections**. `(
 
 Head straight to Kaam Ya'tak shrine.
 
-Get Edge of Duality, 1x Guardian Sword, Knight's Broadsword and the Diamond from **Test of Power**, complete it. `(7/24)`
+Get Edge of Duality, 1x Guardian Sword and the Diamond from **Test of Power**, complete it. `(7/24)`
 
 Go to Katah Chuki shrine.
 
-Complete **A Minor Test of Strenght** using Edge of Duality. Grab the Royal Halberd at the end from the chest. `(8/24)`
+Complete **A Minor Test of Strenght** using Edge of Duality. `(8/24)`
 
 Head to Zalta Wa shrine and complete **Two Orbs to Guide You**. `(9/24)`
 
@@ -100,7 +104,7 @@ Enter Shae Loya and complete **Aim for the Moment**. `(10/24)`
 
 ### Tabantha Stable
 
-Grab 3 **Spicy Peppers** and a **Torch**.
+Grab 3 **Spicy Peppers** and the **Knight Sword**.
 
 Talk to Toren for 500 rupees.
 > If you grabbed the Warm Doublet, you should cook the 3 Spicy Peppers right now and sell your Diamond to Beedle.
