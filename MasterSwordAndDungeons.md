@@ -3,6 +3,7 @@
 The goal is to complete the four Divine Beasts and get the Master Sword, and then defeat Ganon.
 
 This route does not use any amiibo, but Smash Link can be used to spawn Epona instead of dealing with wild horses.
+This route does not use any form of DLC like extra chests or Master Mode.
 
 [You can view a spreadsheet version of the route here.](https://docs.google.com/spreadsheets/d/12xBdQ8w3ZR8SDNGj0v9tfdZvRwqxNidf2cBP6MYhguk/edit#gid=0)
 
