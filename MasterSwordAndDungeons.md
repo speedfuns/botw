@@ -3,37 +3,32 @@
 The goal is to complete the four Divine Beasts and get the Master Sword, and then defeat Ganon.
 
 This route does not use any amiibo, but Smash Link can be used to spawn Epona instead of dealing with wild horses.
-This route does not use any form of DLC like extra chests or Master Mode.
+This route does not use any form of DLC like ex-chests or Master Mode.
 
 [You can view a spreadsheet version of the route here.](https://docs.google.com/spreadsheets/d/12xBdQ8w3ZR8SDNGj0v9tfdZvRwqxNidf2cBP6MYhguk/edit#gid=0)
 
 ### Changelog
 
-25/05/2017 - Changed route to include Warm Doublet
+- **14/07/2017** - Added a new Speed Elixir in Wetlands Stable and removed the one of the Speed Meals. Tabantha Stable and Rito Village sections remade for newer strats. Several other little changes for small optimizations.
+- **25/05/2017** - Changed route to include Warm Doublet
 
 ### Rupee Usage
 
 Action | Cost
 ------ | ------
 Register Horse | 20
-Sunshrooms | 64
 Gerudo Clothes | 600
 Rent Seal (1) | 20
 Shock Arrows | 420
 Rent Seal (2) | 20
+3 Hot-Footed Frogs | 30
 Fireproof Elixir | 60
 Flamebreaker Boots | 700
-**TOTAL** | **1904**
-
-### Pending Timings
-
-Warm Doublet VS. Sunshrooms
-
-Rito Village: Two Stasis Launches VS. Three Stasis Launches
-
-Flowers Shrine: Stasis Launch VS. Cryonis
+**TOTAL** | **1870**
 
 ## Route
+
+ > Note: Shrine strategies are not detailed since they change constantly. Check https://mirkorean.github.io/ikki-allshrines/ for shrine strats.
 
 ### Great Plateau
 
@@ -41,6 +36,8 @@ Watch the intro and run down the hill to the right after stepping out of the Shr
 > Optional:  Grab **Hylian Shrooms** for safety going to Cryonis.
 
 Grab the **Woodcutter's Axe**.
+
+Pick up the second rock you see and get a guaranteed **High-tail Lizard**.
 
 Get the **Hylian Herb** near the tree after the Zelda mini-cutscene.
 
@@ -53,8 +50,6 @@ Activate the **Great Plateau Tower**.
 Climb down the tower or perform a Fall Damage Cancel.
 
 Run to the **Magnesis Trial** and complete it. `(1/24)`
-
-> Optional: Grab the DLC Ruby outside for safety.
 
 Run over to **Bomb Trial** and grab more arrows along the way.
 
@@ -71,11 +66,10 @@ Shield Jump over the gap.
 
 Climb to the **Cryonis Trial** and complete it. `(3/24)`
 
-Head to the **Stasis Trial**, make sure to heal on the way.
-> You can grab the Warm Doublet here if you prefer, if you want to skip cooking Sunshrooms in Rito Village.
+Head to the **Stasis Trial**, make sure to grab the Warm Doublet on the way.
 
 Complete the **Stasis Trial** and grab the Sledgehammer inside. `(4/24)`
-> Optional: Get the **Traveler's Shield** for safety in case your Boko Shield is badly damaged or broken.
+> Optional: Get the **Traveler's Shield** for safety in case your Boko Shield is badly damaged or broken, costs about 30 seconds to get.
 
 Boulder launch to Temple of Time and get the **Paraglider**.
 
@@ -108,17 +102,19 @@ Enter Shae Loya and complete **Aim for the Moment**. `(10/24)`
 Grab 3 **Spicy Peppers** and the **Knight Sword**.
 
 Talk to Toren for 500 rupees.
-> If you grabbed the Warm Doublet, you should cook the 3 Spicy Peppers right now and sell your Diamond to Beedle.
+
+Sell your Diamond to Beedle.
 
 Register your horse.
 
-Ride your horse OR perform a Stasis Launch to the area near the Stone Talus.
+Perform a Stasis Launch to the area near the Stone Talus.
 
-Kill the **Rare Talus** using the Sledgehammer, you should get at least a total of **904 rupees worth of ore**. You can also get the Rare Deposit near the Talus for more rupees (this deposit is hidden behind a wall of breakable rocks).
+Kill the **Rare Talus** using the Sledgehammer, you should get at least a total of **870 rupees worth of ore**. You can also get the Rare Deposit near the Talus for more rupees (this deposit is hidden behind a wall of breakable rocks).
 > If you got less than this amount you can grab more ore in the Yiga Clan Hideout later.
 
 Ore | Sell Price
 ----- | -----
+Flint | Just don't take it lol
 Amber | 30
 Opal | 60
 Topaz | 180
@@ -126,25 +122,17 @@ Ruby | 210
 Sapphire | 260
 Diamond | 500
 
-Ride your horse OR perform a Stasis Launch to Rito Village.
-
-### Rito Village
+Climb the mountain and perform a stasis launch to the last pillar before the Rito Village entrance.
 
 Grab the Sledgehammer in the pillar right before entering the village.
 > Skip this if you chose not to kill the Stone Talus.
 
+Perform a Rocket Launch directly to the Elder.
+> Optional: Grab two **Hearty Salmons** from the pond before doing the launch, this will make Wasteland much easier to survive.
+
+### Rito Village
+
 Vah'Medoh cutscene
-
-Get 2 **Heart Containers** from the Goddess Statue, this will make Stasis Launches less risky.
-
-Head to the Rito Store, sell all your ore and buy 4 Sunshrooms.
-
-Go to the cooking pot and cook:
- - 4 Sunshrooms for a Level 2 Cold Resistance meal.
- - 3 Spicy Peppers for a Level 1 Cold Resistance meal.
-> If you grabbed the Warm Doublet skip going to the store and the cooking pot.
-
-> Optional: Rest until morning to avoid enemies in Wasteland later.
 
 Talk to the Elder, then talk to Saki for Revali's memory cutscene.
 
@@ -153,19 +141,21 @@ Enter Akh Va'quot and complete **Windmills**. `(11/24)`
 Fly to Sha Warvo shrine and complete **Path of Hidden Winds**. `(12/24)`
 
 Enter the Flight Range and pick up the 10 arrows on the counter.
-> Optional: Grab the Shallow Bow for safety.
+
+Cook the 3 **Spicy Peppers**
+> Optional: Also cook the **Hearty Salmons** now if you got them.
 
 Talk to Teba and complete the shooting minigame.
 
-Grab the **Falcon Bow**, eat Lvl. 2 Cold Resistance food and talk to Teba again.
-> If you grabbed to Warm Doublet eat instead the Lvl. 1 Cold Resistance food.
+Grab the **Falcon Bow**, eat Lvl. 1 Cold Resistance food and talk to Teba again.
 
 ### Divine Beast Vah'Medoh
 
 Defeat the Divine Beast by shooting bomb arrows to the laser guns. Make sure to not fail any shot or you will have to take an extra 5 arrows inside Vah'Medoh later.
 
 Free **Vah'Medoh** using the "mapless" route.
-> Make sure to grab the 5 Ice Arrows after the 4th terminal.
+- Open the chest in the central room after going up the wall to get an **Ancient Core**.
+- Make sure to grab the 5 Ice Arrows after the 4th terminal.
 > Optional: Grab the extra 5 Bomb Arrows after the last terminal if you missed any shots during the Vah'Medoh fight or for safety.
 
 Defeat Windblight Ganon using the Falcon Bow (very important that you use this bow). Grab the **Heart Container** after.
@@ -194,7 +184,7 @@ Use a Gale charge (1/3) to get on top of the rock and buy the **Gerudo Clothes**
 
 Use a Gale charge (2/3) to get inside Gerudo Town and head directly to **Riju**, talk to her then talk to the Gerudo Chief Liana to start the Yiga Clan quest.
 
-Use a Gale charge (3/3) and rent a seal (20 rupees), head to the Yiga Clan Hideout evading any enemies rocks and enemies on the path. Eat your Level 1 Cold Resistance food if necessary.
+Rent a seal (20 rupees), head to the Yiga Clan Hideout evading any enemies rocks and enemies on the path. Use the last Gale charge (3/3) after getting off of the seal
 > Note: Using the last gale charge here is necessary to be able to de Vah'Naboris later with all 3 charges.
 
 ### Yiga Clan Hideout
@@ -218,8 +208,8 @@ Magnesis the wall and enter the **Master Kogha** boss fight.
 
 Defeat Kohga using arrow and the Royal Halberd. Get the **Thunder Helm** from the chest and warp to Daqo Chisay.
 
-Climb and enter Gerudo Town, buy 30 Shock Arrows from the seller (420 rupees)
-> Sell the ore if you got any in the Yiga Hideout. You can also buy regular arrows for safety if you have extra rupees.
+Climb and enter Gerudo Town. Sell all of your ore and buy 30 Shock Arrows from the seller (420 rupees).
+> Optional: Buy regular arrows for safety if you have extra rupees.
 
 Use a torch to lit up one of the cooking pots
 
@@ -250,20 +240,19 @@ Go to Riverside Stable and take out your horse.
 
 Ride to the Hila Rao Shrine and complete **Drifting**. `(14/24)`
 
-Shield jump over the flowers and get back to your horse, ride until you see the Kaya Wan shrine on the other side of the river and use Cryonis to go over it, complete **Shileds from Water** `(15/24)`
+Shield jump over the flowers and get back to your horse, ride until you see the Kaya Wan shrine on the other side of the river and use Cryonis to go over it, complete **Shields from Water** `(15/24)`
 
-Go to Wetlands Stable and take out your horse once again.
-> Optional: Talk to Beedle to get an Ancient Arrow from him. Make sure to talk to him twice if it's the first time you speak to him.
+Go to Wetlands Stable and talk to Beedle, you will recieve an **Ancient Arrow**. Buy **3 Hot-Footed Frogs**.
+
+Cook 1 Hightail Lizard, 3 Hot-Frooted Frogs and 1 Ancient Core to get a **Lvl. 3 Hasty Elixir**.
 
 Ride to the Daka Tuss Shrine and complete **Sunken Scoop**. `(16/24)` 
 
-Cross the Wetlands and get 4 Fleet-Lotus Seeds, then get into the wooden encampent to cross Zora's River.
+Cross the Wetlands and get into the wooden encampent to cross Zora's River.
 
-Where the road splits in to you'll find a Lizalfos and a cooking pot, use a bomb arrow to kill it. Cook the 4 Fleet-Lotus Seeds to get a Level 3 Speed meal, eat it afterwards.
+Get near the Soh Kofi Shrine, hop off your horse, drink the speed elixir and complete **A Minor Test of Strenght** using the Edge of Duality. `(17/24)`
 
-Get to the Soh Kofi Shrine, complete **A Minor Test of Strenght** using the Edge of Duality. `(17/24)`
-
-Get on your horse and continue along the road until you see an Ice Wizzrobe. You can either perform a Stasis Launch or just fly to get to the Tah Muhl Shrine (it's hidden behind a arch-shaped rock formation). Complete **Passing the Flame**. `(18/24)`
+Get on your horse and continue along the road until you see a destroyed wooden cart. You can either perform a Stasis Launch using one of the trees or just fly to get to the Tah Muhl Shrine (it's hidden behind a arch-shaped rock formation). Complete **Passing the Flame**. `(18/24)`
 
 ### Eldin Region
 
