@@ -5,8 +5,6 @@ The goal is to complete the four Divine Beasts and get the Master Sword, and the
 This route does not use any amiibo, but Smash Link can be used to spawn Epona instead of dealing with wild horses.
 This route does not use any form of DLC like ex-chests or Master Mode.
 
-[You can view a spreadsheet version of the route here.](https://docs.google.com/spreadsheets/d/12xBdQ8w3ZR8SDNGj0v9tfdZvRwqxNidf2cBP6MYhguk/edit#gid=0)
-
 ### Changelog
 
 - **14/07/2017** - Added a new Speed Elixir in Wetlands Stable and removed the one of the Speed Meals. Tabantha Stable and Rito Village sections remade for newer strats. Several other little changes for small optimizations.
