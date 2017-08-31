@@ -2,7 +2,8 @@
 
 ## Requirements
 
-Win all X minigames:
+Win all X minigames
+
 Minigame | Region | Location | Requirement | Reward
 :--|:--|:--|:--|:--
 Bird-Man Research Study | Ridgeland | Ridgeland Tower | ??? | Silver Rupee
@@ -20,6 +21,7 @@ Sand-Seal Racing | Wasteland | Sand-Seal Rally | Sub 1:30 | Shrine
 Shield Surfing | Hebra | Selmie's Spot | ??? | ???
 Snowball Bowling | Hebra | Pondo's Lodge | Strike | Blizzard Rod
 Gut Check Challenge | Eldin | Gut Check Rock | 100 Rupees | Shrine
+Test of Wood | Woodland | Korok Forest | Complete the Course | Shrine
 
 ## Route
 
