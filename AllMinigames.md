@@ -4,13 +4,10 @@
 
 Win all of the maximum rewards for the minigames listed below. Timing ends on earning the last reward.
 
-Flight Range will require the completion of Divine Beast Vah Medoh.
-
-Sand-Seal Race will require the completion of Divine Beast Vah Naboris.
-
-Blue Flame will require the camera and starting the quest with Purah.
-
-Paraglider Course will require completing Eventide Island.
+Flight Range will require the completion of Divine Beast Vah Medoh.  
+Sand-Seal Race will require the completion of Divine Beast Vah Naboris.  
+Blue Flame will require the camera and starting the quest with Purah.  
+Paraglider Course will require completing Eventide Island.  
 
 Minigame | Location | Requirement | Reward
 :--|:--|:--|:--
