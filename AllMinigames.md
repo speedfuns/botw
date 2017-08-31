@@ -4,10 +4,10 @@
 
 Win all of the maximum rewards for the minigames listed below. Timing ends on earning the last reward.
 
-Flight Range will require the completion of Divine Beast Vah Medoh.  
-Sand-Seal Race will require the completion of Divine Beast Vah Naboris.  
-Blue Flame will require the camera and starting the quest with Purah.  
-Paraglider Course will require completing Eventide Island.  
+- Flight Range will require the completion of Divine Beast Vah Medoh.
+- Sand-Seal Race will require the completion of Divine Beast Vah Naboris.
+- Blue Flame will require the camera and starting the quest with Purah.
+- Paraglider Course will require completing Eventide Island.
 
 Minigame | Location | Requirement | Reward
 :--|:--|:--|:--
@@ -34,10 +34,70 @@ Test of Wood | Korok Forest | Sub 5:00 | Silver Rupee
 
 ## Route
 
-### Great Plateau
+- Great Plateau
+- Get 4 speed horse
+- Activate Wahgo Katta
+- Activate Ha Dahamar
+- Register horse
+- Seek Out Impa
+- Warp to Dueling Peaks Stable
+- Ride to Hateno Village
+- Deer Hunting Minigame
+- Get Camera
 
-### Central Hyrule
+- Warp to Riverside Stable
+- Ride to Wetlands Stable
+- Activate Kaya Wan
+- Get Fleet Lotus Seeds through Wetlands
+- Ride to East Akkala Stable
+- Do the Robbie sidequest
+- Blue Flame Minigame
+- Stasis to Labrynth and get the medallion
 
-Grab a bunch of stamina shrooms
+- Warp to East Akkala Stable
+- Ride to Gut Check Rock
+- Super Gut Check Challenge Minigame
 
-### Tabantha
+- Warp to Wetlands Stable
+- Ride to Korok Forest
+- Trial of Wood Minigame
+
+- Warp to Riverside Stable
+- Ride to Footrace Minigame
+- Get 5 speed horse if you have 3 speed
+- Set warp point
+- Stasis to Tabantha Tower
+- Bird-Man Research Study Minigame
+
+- Warp to medallion
+- Ride to Tabantha Stable
+- Set warp point
+- Drop down off the cliff
+- Boom Bam Golf Minigame
+
+- Warp to medallion
+- Stasis to Rito Village
+- Divine Beast Vah Medoh
+- Flight Range Minigame
+
+- Warp to Cryonis
+- Divine Beast Vah Naboris
+- Get Snow Boots
+- Sand-Seal Racing Minigame
+- Perfect Drink Shrine Quest
+- Ice Block Delivery Minigame
+
+- Warp to Riverside Stable
+- Ride to the Mounted Archery Course
+- Ride to the Mounted Obstacle Course
+- Ride to Lurelin Village
+- Gambling Minigame
+
+- Eventide Island
+- Paraglider Course Minigame
+
+- Warp to Rito Village
+- Ride to Hateno Tower
+- Snowball Bowling Minigame
+- Ride to Selmie's Spot
+- Shield Surfing Minigames
