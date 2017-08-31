@@ -46,7 +46,7 @@ Test of Wood | Korok Forest | Sub 5:00 | Silver Rupee
 - Get Camera
 ---
 - Warp to Riverside Stable
-- Ride to Wetlands Stable
+- Ride to Wetlands Stable (get Endura Shrooms in the woods prior)
 - Activate Kaya Wan
 - Get Fleet Lotus Seeds through Wetlands
 - Ride to East Akkala Stable
@@ -63,6 +63,8 @@ Test of Wood | Korok Forest | Sub 5:00 | Silver Rupee
 - Trial of Wood Minigame
 ---
 - Warp to Riverside Stable
+- Get a bunch of Endura Shrooms on the way
+- Get Endura Shrooms from the stable
 - Ride to Footrace Minigame
 - Get 5 speed horse if you have 3 speed
 - Set warp point
