@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Win all 17 minigames
+Win all of the maximum rewards for following minigames:
 
 Minigame | Region | Location | Requirement | Reward
 :--|:--|:--|:--|:--
@@ -21,7 +21,9 @@ Sand-Seal Racing | Wasteland | Sand-Seal Rally | Sub 1:30 | Shrine
 Shield Surfing (Basic) | Hebra | Selmie's Spot | Finish | Advanced Course
 Shield Surfing (Advanced) | Hebra | Selmie's Spot | ??? | ???
 Snowball Bowling | Hebra | Pondo's Lodge | Strike | Blizzard Rod
+Gut Check Challenge | Eldin | Gut Check Rock | 100 Rupees | Shrine
 Super Gut Check Challenge | Eldin | Gut Check Rock | 300 Rupees | Endura Shroom
+Test of Wood | Woodland | Korok Forest | Finish | Shrine
 Test of Wood | Woodland | Korok Forest | Sub 5:00 | Silver Rupee
 
 ## Route
