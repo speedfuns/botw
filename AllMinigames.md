@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Win all X minigames
+Win all 16 minigames
 
 Minigame | Region | Location | Requirement | Reward
 :--|:--|:--|:--|:--
@@ -15,7 +15,7 @@ Footrace | Tabantha | Footrace Check-In | ??? | ???
 Gambling | Faron | Lurelin Village | ??? | ???
 Ice Delivery | Wasteland | Northern Icehouse | ??? |???
 Mounted Archery | Faron | Mounted Archery Camp | 23+ Targets | Knight's Saddle and Bridle
-Mounted Obstacle Course | Faron | Highland Stable | Sub 1:15 | Silver Rupee
+Mounted Obstacle Course | Faron | Highland Stable | Sub 1:15 | Extravagant Saddle and Bridle
 Paraglider Course | Faron | Eventide Island | ??? | ???
 Sand-Seal Racing | Wasteland | Sand-Seal Rally | Sub 1:30 | Shrine
 Shield Surfing | Hebra | Selmie's Spot | ??? | ???
