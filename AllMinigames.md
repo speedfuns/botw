@@ -44,7 +44,7 @@ Test of Wood | Korok Forest | Sub 5:00 | Silver Rupee
 - Ride to Hateno Village
 - Deer Hunting Minigame
 - Get Camera
-
+---
 - Warp to Riverside Stable
 - Ride to Wetlands Stable
 - Activate Kaya Wan
@@ -53,49 +53,49 @@ Test of Wood | Korok Forest | Sub 5:00 | Silver Rupee
 - Do the Robbie sidequest
 - Blue Flame Minigame
 - Stasis to Labrynth and get the medallion
-
+---
 - Warp to East Akkala Stable
 - Ride to Gut Check Rock
 - Super Gut Check Challenge Minigame
-
+---
 - Warp to Wetlands Stable
 - Ride to Korok Forest
 - Trial of Wood Minigame
-
+---
 - Warp to Riverside Stable
 - Ride to Footrace Minigame
 - Get 5 speed horse if you have 3 speed
 - Set warp point
 - Stasis to Tabantha Tower
 - Bird-Man Research Study Minigame
-
+---
 - Warp to medallion
 - Ride to Tabantha Stable
 - Set warp point
 - Drop down off the cliff
 - Boom Bam Golf Minigame
-
+---
 - Warp to medallion
 - Stasis to Rito Village
 - Divine Beast Vah Medoh
 - Flight Range Minigame
-
+---
 - Warp to Cryonis
 - Divine Beast Vah Naboris
 - Get Snow Boots
 - Sand-Seal Racing Minigame
 - Perfect Drink Shrine Quest
 - Ice Block Delivery Minigame
-
+---
 - Warp to Riverside Stable
 - Ride to the Mounted Archery Course
 - Ride to the Mounted Obstacle Course
 - Ride to Lurelin Village
 - Gambling Minigame
-
+---
 - Eventide Island
 - Paraglider Course Minigame
-
+---
 - Warp to Rito Village
 - Ride to Hateno Tower
 - Snowball Bowling Minigame
