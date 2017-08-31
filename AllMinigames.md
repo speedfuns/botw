@@ -5,7 +5,7 @@
 Win all of the maximum rewards for following minigames:
 
 Minigame | Location | Requirement | Reward
-:--|:--|:--|:--|:--
+:--|:--|:--|:--
 Bird-Man Research Study | Ridgeland Tower | 500m+? | Silver Rupee
 Boom Bam Golf | Tanagar Canyon | Par 4 | Purple Rupee
 Blue Flame | East Akkala Stable | Sub 0:20 | Gold Rupee
