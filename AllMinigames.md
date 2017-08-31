@@ -2,7 +2,12 @@
 
 ## Requirements
 
-Win all of the maximum rewards for following minigames:
+Win all of the maximum rewards for the minigames listed below. Timing ends on earning the last reward.
+
+Flight Range will require the completion of Divine Beast Vah Medoh.
+Sand-Seal Race will require the completion of Divine Beast Vah Naboris.
+Blue Flame will require the camera and starting the quest with Purah.
+Paraglider Course will require completing Eventide Island.
 
 Minigame | Location | Requirement | Reward
 :--|:--|:--|:--
@@ -15,7 +20,7 @@ Footrace | Footrace Check-In | Win? | Purple Rupee?
 Gambling | Lurelin Village | 100 Rupees and Luck | Gold Rupee
 Ice Delivery | Northern Icehouse | Finish | Shrine
 Ice Delivery | Northern Icehouse | Sub 3:00? | Silver Rupee
-Mounted Archery | Mounted Archery Camp | 23+ Targets | Knight's Saddle and Bridle
+Mounted Archery Course | Mounted Archery Camp | 23+ Targets | Knight's Saddle and Bridle
 Mounted Obstacle Course | Highland Stable | Sub 1:15 | Extravagant Saddle and Bridle
 Paraglider Course | Eventide Island | 36 Rings? | 100 Rupees
 Sand-Seal Racing | Sand-Seal Rally | Sub 1:30 | Shrine
