@@ -13,8 +13,17 @@ Credits
 - Sigmaphied for routing and creation of this document.
 - Jesterhead92 for the Flying Machine Route and additional routing.
 
+### External Links
+
+ - [SRC Breath of the Wild Leaderboards](https://www.speedrun.com/botw/)
+ - [Breath of the Wild Speedrun Discord](https://discord.gg/mh8YYuD)
+ - [Foothill Route Timings Spreadsheet](https://docs.google.com/spreadsheets/d/1-TUhINA0jeJBHrbu7AQFkyhKLT4FHRP9TLouXi87cEQ/edit?usp=sharing)
+ - [Shrine Strategies](https://mirkorean.github.io/ikki-allshrines/)
+ - [Zelda Dungeon Interactive Map](https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/)
+
 ### Changelog
 
+- **27/11/2017** - Added external links
 - **26/11/2017**
   - **Thanks to Jesterhead92, now we have an alternative route for MSD!**. The original route will be called "Foothill Route" and the newer route will be called "Flying Machine Route".
   - Changes to Foothill Route:
@@ -49,8 +58,6 @@ Flamebreaker Boots | 700
 **TOTAL** | **1954**
 
 ## Route
-
- > Note: Shrine strats are not detailed since they change constantly. Check https://mirkorean.github.io/ikki-allshrines/.
 
 ### Great Plateau
 
@@ -416,8 +423,6 @@ Flamebreaker Boots | 700
 **TOTAL** | **2004**
 
 ## Route
-
- > Note: Shrine strats are not detailed since they change constantly. Check https://mirkorean.github.io/ikki-allshrines/.
 
 ### Great Plateau
 
