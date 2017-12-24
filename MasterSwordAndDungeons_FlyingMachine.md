@@ -1,4 +1,4 @@
-# Master Sword and Dungeons (MSD)
+# Master Sword and Dungeons (Flying Machine)
 
 The goal is to complete the four Divine Beasts and get the Master Sword, defeating Ganon in the end.
 
