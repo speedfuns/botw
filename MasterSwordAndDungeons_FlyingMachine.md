@@ -3,8 +3,8 @@
 The goal is to complete the four Divine Beasts and get the Master Sword, defeating Ganon in the end.
 
 There are two routes included in this document you may use to quickly complete this objective. At the moment, no route is considered faster than the other, it's up to personal preference of each runner.
-- **[The Original Route]()** is the original route featured in this document. It's based on the old route of AMQ and does not use flying machine. DLC is optional for this route.
-- **[The Flying Machine Route]()** reaches Korok Forest early, getting extra Speed Potions on the way. It also uses a different route for Zora's Domain, using flying machine. The DLC Ruby is **neccesary** for this route.
+- **[The Original Route](https://github.com/speedfuns/botw/blob/master/MasterSwordAndDungeons.md)** is the original route featured in this document. It's based on the old route of AMQ and does not use flying machine. DLC is optional for this route.
+- **[The Flying Machine Route](https://github.com/speedfuns/botw/blob/master/MasterSwordAndDungeons_FlyingMachine.md)** reaches Korok Forest early, getting extra Speed Potions on the way. It also uses a different route for Zora's Domain, using flying machine. The DLC Ruby is **neccesary** for this route.
 
 **Neither route uses Amiibo or Master Mode.**
 
