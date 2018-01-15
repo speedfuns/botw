@@ -407,13 +407,14 @@ After obtaining Mipha's Grace warp back to Daqa Koh Shrine.
 
 ### Divine Beast Vah Rudania
 
-Help Yunobo (once again) by defeating the two Moblins.
+Help Yunobo (once again) by defeating the two Moblins. Use 1 fury and the Great Eagle Bow with Shock Arrows.
+> Safety: Use the Duplex Bow instead.
 
 Bring down the Bridge of Eldin to enter the Vah Rudania fight.
 
 Make sure Yunobo doesn't get caught and kill the mini-flying guardians with Metal Boxes. Kill the first moblin with bullet-time headshots (extra shock arrows) and kill the second two with a metal box.
 
-> Note: Be sure to use all 3 Urbosa's Fury chargest at some point during the escort.
+> Note: Be sure to use all 3 Urbosa's Fury chargest at some point during the escort. The optimal use for the other two is to kill the first sentry and skip its cycle. Safe backups include saving them for the moblin camps or using all three to save Yunobo.
 
 To complete the dungeon, use the latest Vah Rudania route. This dungeons uses quite a bit of arrows so be prepared. You can get some extra normal arrows from two chests in the central room. Gale charges used: (1/3).
 
