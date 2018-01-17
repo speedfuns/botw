@@ -2,32 +2,39 @@
 
 The goal is to complete the four Divine Beasts and get the Master Sword, defeating Ganon in the end.
 
-There are two routes included in this document you may use to quickly complete this objective. At the moment, no route is considered faster than the other, it's up to personal preference of each runner.
+There are two routes you may use to quickly complete this objective. At the moment, the route provided in this document is faster than the Flying Machine one by a couple of minutes.
 - **[The Original Route](https://github.com/speedfuns/botw/blob/master/MasterSwordAndDungeons.md)** is the original route featured in this document. It's based on the old route of AMQ and does not use flying machine. DLC is optional for this route.
 - **[The Flying Machine Route](https://github.com/speedfuns/botw/blob/master/MasterSwordAndDungeons_FlyingMachine.md)** reaches Korok Forest early, getting extra Speed Potions on the way. It also uses a different route for Zora's Domain, using flying machine. The DLC Ruby is **neccesary** for this route.
 
-**Neither route uses Amiibo or Master Mode.**
+**Neither route uses Amiibo, Master Mode or Champions' Ballad DLC.**
 
 Credits
 - rekyuu for creating the original MSD and routing.
 - Sigmaphied for routing and creation of this document.
 - Jesterhead92 for the Flying Machine Route and additional routing.
+- JKTKops for additional routing and video examples.
 
 ### External Links
 
- - [SRC Breath of the Wild Leaderboards](https://www.speedrun.com/botw/)
+ - [MSD Leaderboards](https://www.speedrun.com/botw/#Master_Sword_and_Dungeons)
  - [Breath of the Wild Speedrun Discord](https://discord.gg/mh8YYuD)
- - [Foothill Route Timings Spreadsheet](https://docs.google.com/spreadsheets/d/1-TUhINA0jeJBHrbu7AQFkyhKLT4FHRP9TLouXi87cEQ/edit?usp=sharing)
+ - [Original Route Shrine Timings Spreadsheet (WIP)](https://docs.google.com/spreadsheets/d/1-TUhINA0jeJBHrbu7AQFkyhKLT4FHRP9TLouXi87cEQ/edit?usp=sharing)
  - [Shrine Strategies](https://mirkorean.github.io/ikki-allshrines/)
  - [Zelda Dungeon Interactive Map](https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/)
 
 ### Changelog
 
-- **14/1/2018** - Updated with newer strats, food routing, and shrine routing.
-- **27/11/2017** - Added external links
-- **26/11/2017**
-  - **Thanks to Jesterhead92, now we have an alternative route for MSD!**. The original route will be called "Foothill Route" and the newer route will be called "Flying Machine Route".
-  - Changes to Foothill Route:
+- **2018/01/17** - Several changes made to the route
+  - The section after completing Naboris now skips using a horse, using instead several launches to travel.
+  - Bosh Kala and Daka Tuss removed from the route.
+  - Added Bareeda Naag between Tabantha Stable and Rito Village, and Sho Dantu right before Yiga Hideout.
+  - Added an extra speed meal.
+  - Some minor route changes and grammar fixes.
+- **2018/01/14** - Updated with newer strats, food routing, and shrine routing.
+- **2017/11/27** - Added external links
+- **2017/11/26**
+  - **Thanks to Jesterhead92, now we have an alternative route for MSD!**. The route in this document will be named "Original Route" and the newer route will be called "Flying Machine Route".
+  - Changes to Original Route:
     - Great Plateau section remade to reflect the latest Magnesis > Cryonis > Stasis > Bombs route.
     - Added launch to horse area after Paraglider.
     - Tabantha Stable section remade.
@@ -35,16 +42,15 @@ Credits
     - Added Duplex Bow for latest Naboris route.
     - Added a new speed meal on the way to Soh Kofi.
     - Added an extra launch on the way to Korok Forest.
-  - Added the new Flying Machine Route.
+  - Added the new [Flying Machine Route](https://github.com/speedfuns/botw/blob/master/MasterSwordAndDungeons_FlyingMachine.md).
   - Fixed several grammar and spelling mistakes.
-- **14/07/2017** - Added a new Speed Elixir in Wetlands Stable and removed the one of the Speed Meals. Tabantha Stable and Rito Village sections remade for newer strats. Several other little changes for small optimizations.
-- **25/05/2017** - Changed route to include Warm Doublet
+- **2017/07/14** - Added a new Speed Elixir in Wetlands Stable and removed the one of the Speed Meals. Tabantha Stable and Rito Village sections remade for newer strats. Several other little changes for small optimizations.
+- **2017/05/25** - Changed route to include Warm Doublet
 
 ### Minimum Rupee Usage
 
 Action | Cost
 ------ | ------
-Register Horse | 20
 Sunshrooms | 64
 5 Arrows | 20
 Gerudo Clothes | 600
@@ -53,21 +59,9 @@ Shock Arrows | 420
 3 Hot-Footed Frogs | 30
 Fireproof Elixir | 60
 Flamebreaker Boots | 700
-**TOTAL** | **1934**
+**TOTAL** | **1914**
 
 ## Route
-
-There are 4 shrines which are roughly tied for slowest. **Only two of them are required. It is up to personal preference of the runner as to which two are completed.** These shrines will be marked by a "\*". Those shrines are:
-
-> Shae Loya, **Aim For the Moment:** On the way and easy to route in, but requires 3 arrows and is a slow shrine. Requires getting first cycle to be competitive.
-
-> Bareeda Naag, **Canon:** Always have a good wind launching across Tabantha Canyon, conveniently sets time of day so that it will be night in desert, shrine is very fast and easy. However, requires obtaining fire arrows, wood, and watching a cutscene, as well as changing a minor route point.
-
-> Sho Dantu, **Two Bombs:** Not far out of the way, and makes more efficient use of Revali's Gale. However, the skip is relatively difficult and watching a cutscene is required. Heals you before Yiga Hideout on the off chance one of the Clan manages to snipe you on your way in.
-
-> Daka Tuss, **Sunken Scoop:** Somewhat out of the way, but looks super cool to pull off. Requires getting both skips on the first attempt to be competitive. 
-
-It is suspected that the fastest combination is Bareeda Naag and Sho Dantu, however all combinations are within roughly 10 seconds of each other.
 
 ### Great Plateau
 
@@ -90,7 +84,7 @@ Climb down the tower or perform a Fall Damage Cancel.
 Run to the **Magnesis Trial** and complete it. `(1/24)`
 
 Grab the **Hylian Herbs** behind Magnesis to heal from launches later.
-> Optional: If you plan on doing Bareeda Naag later, grab the **Fire Arrows** as well. You can also grab **Ice Arrows** to reduce horse RNG later.
+> Optional: You may grab **Ice Arrows** from the chest in the middle of the swamp to reduce horse RNG later. If you do this, also get **Fire Arrows** to activate Bareeda Naag later.
 
 Warp to the **Shrine of Resurrection**.
 
@@ -103,7 +97,7 @@ Shield Jump over the gap.
 
 Climb to the **Cryonis Trial** and complete it. `(2/24)`
 
-Head to the **Stasis Trial**, you will need to heal from the weather.
+Head to the **Stasis Trial**, you will need to heal from the cold weather.
 
 Complete the **Stasis Trial** and grab the Sledgehammer inside. `(3/24)`
 > Optional: Get the **Traveler's Shield** for safety in case your Boko Shield is badly damaged or broken, costs about 30 seconds to get.
@@ -112,8 +106,10 @@ Remove the Boulder with Stasis and grab the **Traveler's Bow** from the chest be
 
 Use the Boulder to fly into the forest, then use a tree rocket to fly to the **Bomb Trial** and complete it. `(4/24)`
 
-Return to the area with trees and use one of them (or climb the ladder) to get on top of the Temple of Time, get the **Paraglider**.
-> Optional: Get the **Soldier's Bow** from the nearby chest if you are concerned about bow durability.
+Return to the area with trees and use one of them to get on top of the Temple of Time, get the **Paraglider**.
+> Optional: You may also climb the ladder to get on top of ToT, much slower than launching.
+
+> Optional: Get the **Soldier's Bow** from the chest after getting the Paraglider if you are concerned about bow durability.
 
 ### Central and Ridgeland Region
 
@@ -122,43 +118,32 @@ Warp to **Oman Au** and launch near Lake Kolomo, pick up a horse.
 
 > Note: When picking up a horse, your aiming to get one with a 4-speed stat. There's no precise way to know which one is a 4-speed, but there are some clues which can help you: the leader and spotted horses are never 4-speed; 4-speed horses always have a 3-stamina stat.
 
-Head to Bosh Kala and complete **The Wind Guides You** `(5/24)`
-
-Go to Riverside Stable and enter Wahgo Katta, complete **Metal Connections**. `(6/24)` 
-
 Head straight to the Kaam Ya'tak shrine.
 
-Get Edge of Duality and the Diamond from **Test of Power**, complete it. `(7/24)`
+Get Edge of Duality and the Diamond from **Test of Power**, complete it. `(5/24)`
 > Note: If you use the second bomb boost, heal with 2 Hylian Herbs and 1 Hylian Shroom before the second boost.
 
-Go to Katah Chuki shrine.
+Go to Katah Chuki shrine, before activating the shrine, grab the **Fire Arrows** from the chest standing atop of the brick wall nearby.
+> Note: Skip getting the Fire Arrows here if you decided to pick the ones near Magnesis before.
 
-Complete **A Minor Test of Strength** using Edge of Duality. `(8/24)`
+Complete **A Minor Test of Strength** using Edge of Duality. `(6/24)`
 
-Head to Zalta Wa shrine and complete **Two Orbs to Guide You**. `(9/24)`
+Head to Zalta Wa shrine and complete **Two Orbs to Guide You**. `(7/24)`
 
-Go to Tabantha Stable and drop your horse nearby.
-
-\* Enter Shae Loya and complete **Aim for the Moment**. `(10/24)`
-> Note: From here until Soh Kofi, the shrine count in this document may not be accurate due to the optional routing. Possibilites will be denoted as, for example, 10,11,12/24 if the shrine could be any of the tenth, eleventh, or twelfth completed.
+Head to Shae Loya and complete **Aim for the Moment** `(8/24)`
 
 ### Tabantha Stable
 
-Grab the **Knight's Sword**.
+Grab a bundle of **Wood**, three **Wild Berries** and three **Spicy Peppers**.
 
-> If you plan on completing Bareeda Naag, grab a bundle of **Wood** and at least one **Spicy Pepper**. It is not slower to grab all three.
+Talk to Toren for 500 rupees, afterwards grab the **Woodcutter Axe** near the cart.
 
-Talk to Toren for 500 rupees.
-
-Register your horse.
-
-If you *do not* plan on completing Bareeda Naag, use the fire and **sleep until night time**.
-> Note: The reason we do this is to get a better current of air on the way to Rito when launching. It also makes Wasteland easier because by that point it will usually be daytime.
+> Optional: You can register your horse here for safety later in the run.
 
 Perform a Stasis Launch to the area near the Stone Talus.
 
-Get the Rare Deposit near the Talus (this deposit is hidden behind a wall of breakable rocks). You should get at least a total of **834 rupees worth of ore** (or 624 if you got the DLC Ruby). 
-> If you got less than the minimum amount, you can grab some ore later inside the Yiga Hideout.
+Get the Rare Deposit near the Talus (this deposit is hidden behind a wall of breakable rocks). You should get at least a total of **334 rupees worth of ore** (or 124 if you got the DLC Ruby). 
+> Note: If you got less than the minimum amount, you can grab some ore later inside the Yiga Hideout.
 
 Ore | Sell Price
 ----- | -----
@@ -171,44 +156,34 @@ Ruby | 210
 Sapphire | 260
 Diamond | 500
 
-**If you *do not* plan on completing Bareeda Naag:**
-
-Climb the mountain and perform a stasis launch to the last pillar before the Rito Village entrance.
-
-Grab the Sledgehammer in the pillar right before entering the village.
-> Optional: Grab two **Hearty Salmons** from the pond, this will make Wasteland much easier to survive.
-
-Perform a Rocket Launch directly to the Elder.
-
-Activate the Vah Medoh cutscene.
-
-**If you *do* plan on completing Bareeda Naag:**
-
 Climb the mountain.
-> If you were fast, it should be midmorning. If it is not between 11:50 and 12:20 in game time, use the **Wood** and a **Fire Arrow** to set a campfire. Then sit until noon.
 
-Perform a stasis launch to the Bareeda Naag pedestal. As you pass over the location of the shrine, shoot the pedestal with a **Fire Arrow**.
+Build a campfire with the **Wood** and a **Fire Arrow**, sleep 'till noon (second option).
 
-\* Enter Bareeda Naag and complete **Canon**. `(10,11/24)`
+Perform a Stasis Launch to the Bareeda Naag pedestal. As you pass over the location of the shrine, shoot the pedestal with a **Fire Arrow**.
 
-Perform a tree rocket to Akh Va'quot. Activate the Vah Medoh cutscene.
-
-Enter Akh Va'quot and complete **Windmills**. `(11,12/24)`
-
-Run and climb to the Elder.
+Enter Bareeda Naag and complete **Canon**. `(9/24)`
 
 ### Rito Village
 
+Perform a Rocket Launch to Akh Va'quot. Activate the Vah Medoh cutscene.
+
+Enter Akh Va'quot and complete **Windmills**. `(10/24)`
+
+Run and climb to the Elder.
+
 Talk to the Elder, then talk to Saki for Revali's memory cutscene.
 
-Go the Rito Shop and buy **4 Sunshrooms** and at least a bundle of **5 Arrows**.
+Go to the Rito Shop, buy **4 Sunshrooms** and at least a bundle of **5 Arrows**.
+> Note: Getting 4 Shrooms is the same speed as getting two of them, so it's better to get all of them.
 
-Launch to the Sha Warvo shrine and complete **Path of Hidden Winds**. `(10,11,12,13/24)`
+Launch to the Sha Warvo shrine and complete **Path of Hidden Winds**. `(11/24)`
 
-Enter the Flight Range and pick up the 10 arrows on the counter.
+Glide to the Flight Range trying to not activate the Teba cutscene, grab the **10 Arrows** from the counter.
+> Optional: Grab the **Swallow Bow** too.
 
-If you got Spicy Peppers at the stable, cook any combination of 5 **Spicy Peppers** and **Sunshrooms**. Otherwise, cook all 4 **Sunshrooms**.
-> Optional: Cook the **Hearty Salmons** if you got them.
+Cook 3 **Spicy Peppers** and 2 **Sunshrooms**.
+> Note: The 2 Sunshrooms left may be used for healing through the run, but otherwise they have no actual purpose.
 
 Talk to Teba and complete the shooting minigame.
 
@@ -226,10 +201,7 @@ Free **Vah'Medoh** using the "mapless" route.
 Defeat Windblight Ganon using the Falcon Bow. Grab the **Heart Container** after.
 
 After you get Revali's Gale, talk to the Elder and grab the **Great Eagle Bow** from the chest.
-
-**If you *did not* complete Bareeda Naag:**
-
-> Run to Akh Va'quot, complete **Windmills**. `(11,12/24)`
+> Optional: Sleep 'till morning with the cooking pot to avoid nightime enemies in Wasteland. There's also a Pot Lid nearby if you need it.
 
 Warp to the Cryonis shrine.
 
@@ -246,21 +218,20 @@ Catch a sand seal and head to Gerudo Town.
 
 Activate (but don't complete) the Daqo Chisay shrine and talk to the guy nearby to activate the quest.
 
-Shield Surf to Kara Kara Bazaar.
+Shield Surf to Kara Kara Bazaar. The Naboris cutscene should activate when you arrive.
 
 Use a Gale charge (1/3) to get on top of the rock and buy the **Gerudo Clothes** (600 rupees). Warp back to Daqo Chisay.
 
 Use a Gale charge (2/3) to get inside Gerudo Town and head directly to **Riju**, talk to her then talk to the Gerudo Chief Liana to start the Yiga Clan quest.
 
-Rent a seal, head to the Yiga Clan Hideout evading any rocks on the path. Use the last Gale charge (3/3) after getting off the seal.
+Rent a seal, head to the Yiga Clan Hideout evading any rocks on the path.
+
+Use the last Gale (3/3) to reach the top of the cliff to the right after getting off the seal. Run towards the pedestal and use a bomb to destroy the ore deposit (chance for luminous stone to land on pedestal, saving time).
 > Note: Using the last gale charge here is necessary to be able to do Vah'Naboris later with all 3 charges.
 
-**If you plan on completing Sho Dantu:**
-> Use the last Gale to reach the top of the cliff to the right after getting off the seal. Run towards the pedestal and use a bomb to destroy the ore deposit (chance for luminous stone to land on pedestal, saving time).
+Pick up a luminous stone and place it on the pedestal.
 
-> Pick up a luminous stone and place it on the pedestal.
-
-> \* Enter Sho Dantu, complete **Two Bombs**. `(12,13/24)`
+Enter Sho Dantu, complete **Two Bombs**. `(12/24)`
 
 Evade the enemies and enter the Yiga Clan Hideout.
 
@@ -268,16 +239,16 @@ Evade the enemies and enter the Yiga Clan Hideout.
 
 Pick up the **Duplex Bow** located on the central platform.
 
-Use a Fire or Bomb Arrow to burn the northeast curtain when entering the room. All the enemies should disappear after this.
+Use a Fire or Bomb Arrow to burn the northeast curtain when entering the room. All the enemies chasing you should disappear after this.
 
 Wait for the guard to turn away and jump forward to the side of the big pillar, then climb it.
 
 Jump and fly directly behind the second guard and run to the ladder.
 
 Climb the ladder and pick at least **16 Mighty Bananas**.  Burn the middle curtain to your right (in the main room).
-> A Level 3 Attack food is made with 4 bananas, for this route only four Lvl. 3 Attack meals are needed, you can grab extra bananas if you want.
+> Note: A Level 3 Attack food is made with 4 bananas, for this route only four Lvl. 3 Attack meals are needed, you can grab extra bananas for healing if you want.
 
-> Optional: If you got a bad ore drop from the ore deposit earlier there are several Topaz Gems in the last room, a silver rupee chest above the central platform, and a Topaz gem next to the bananas.
+> Optional: If you got a bad ore drop from the ore deposit earlier there are many gems you can collect in the hideout: a Topaz Gem next to the bananas, some Topaz Gems in the final room and a silver rupee chest above the central platform.
 
 Jump onto the central platform and glide through the burned curtain. Open the two chests for two **Gold Rupees**.
 
@@ -290,9 +261,8 @@ Break the 3 pots to get extra arrows.
 Use Magnesis on the wall to enter the **Master Kogha** boss fight.
 
 Defeat Kohga using arrows and the Edge of Duality. Get the **Thunder Helm** from the chest, warp to Daqo Chisay afterwards.
-> Note: If you picked up the **Knight's Sword**, throw it at Kohga during the second phase.
 
-Complete **The Whole Picture**. `(13,14/24)`
+Complete **The Whole Picture**. `(13/24)`
 
 Climb and enter Gerudo Town. Sell any ore you have and buy 30 Shock Arrows from the vendor (420 rupees).
 > Optional: Buy extra regular arrows as well.
@@ -304,7 +274,7 @@ Use 4 Bananas to cook a Level 3 Attack meal at least four times (so you will end
 Go outside Riju's Room and talk to her to watch the Urbosa's Memory cutscene.
 
 Head to the Watchtower, climb to the top and talk to Riju to start the Vah'Naboris fight.
-> To get to the outpost, either rent a sand seal (20 rupees), shield surf, or height launch off one of the palm trees in town.
+> Note: Performing a Height Launch is the fastest way to get to the outpost [[Video](https://twitter.com/Zants/status/938727941416017920)]. You may also rent a sand seal (20 rupees) or shield surf to get there.
 
 ### Divine Beast Vah Naboris
 
@@ -318,49 +288,62 @@ For the Thunderblight Ganon fight make sure to eat one of the **Level 3 Attack m
 
 Get the **Heart Container** after the fight.
 
-After obtaining **Urbosa's Fury**, warp to Wahgo Katta.
+After obtaining **Urbosa's Fury**, warp to Oman Au.
 
 ### Wetlands Area
 
-Go to Riverside Stable and take out your horse.
-> Optional: Pick up the axe if you need it.
+Perform a Stasis Launch with a metal box to the forest area near Lake Kolomo.
 
-Cross the river leading to Hila Rao using Cryonis, shield jump over the flowers to get inside the shrine and complete **Drifting**. `(14,15/24)`
+Height Launch to Wahgo Katta and complete **Metal Connections**. `(14/24)`
 
-Shield jump over the flowers and get back to your horse, ride until you see the Kaya Wan shrine on the other side of the river and use Cryonis to cross it, complete **Shields from Water** `(15,16/24)`
+> Optional: After this shrine, the fastest way to cross the Wetlands is by performing several continuous launches. If you want a safer way to do this section, get your horse (needs to be registered) from the stable and try to follow the shrine route without all the launches. Doing it this way loses about 90 seconds over the optimal way.
+
+Height Launch to Hila Rao, making sure to not land on the flowers. Complete **Drifting**. `(15/24)`
+
+Shield jump over the flowers again and Height Launch north keeping yourself on the left side of the river [[Video](https://twitter.com/JKTKops/status/953481330251059200)].
+
+Rocket Launch towards Kaya Wan [[Video](https://twitter.com/JKTKops/status/953481820158308352)] and complete **Shields from Water**. `(16/24)`
 
 Go to the Wetlands Stable and talk to Beedle. Buy **3 Hot-Footed Frogs**.
-> Optional: Talk to Beedle again to receive an **Ancient Arrow** for use during the escort.
+> Optional: Talk to Beedle again to receive an **Ancient Arrow** to use during the escort.
 
 Cook 1 Hightail Lizard, 3 Hot-Frooted Frogs and 1 Ancient Core to get a **Lvl. 3 Hasty Elixir**.
 
-\* Ride to the Daka Tuss Shrine and complete **Sunken Scoop**. `(16/24)`
+Get the **Woodcutter Axe**.
 
-Cross the last bridge using your favorite strat (remember to bring the horse!).
+Perform a Height Launch towards the Wetlands.
 
-Get near the Soh Kofi Shrine, hop off your horse, drink the speed elixir and complete **A Minor Test of Strength** using the Great Eagle Bow and 4 Shock Arrows. `(17/24)`
+Perform a regular Stasis Launch and pop the Speed Potion immediately after landing, grab **4 Fleet-Lotus Seeds** near the landing area.
 
-Get on your horse and continue along the road. You can either perform a Stasis Launch using one of the trees or just glide to the Tah Muhl Shrine (it's hidden behind a arch-shaped rock formation). Complete **Passing the Flame**. `(18/24)`
+Perform a Height Launch towards the west side of the wooden encampment.
+
+Perform a Rocket Launch in the direction of Soh Kofi, complete **A Minor Test of Strenght** using the Great Eagle Bow and Shock Arrows. `(17/24)`
+
+Run along the path in the direction to Death Mountain, stopping near the broken wooden structure.
+
+You can either perform a Stasis Launch using one of the trees or just glide to the Tah Muhl Shrine (it's hidden behind a arch-shaped rock formation). Complete **Passing the Flame**. `(18/24)`
 
 ### Eldin Region
 
 Head directly to the Foothill Stable. Buy at least **1 Fireproof Elixir** from the woman near the cooking pot.
 > Note: You can buy more Elixirs if you don't plan on buying an extra Flamebreaker piece on Goron City but want to take a safer a route during the Abandoned North Mines and the Vah Rudania fight.
 
-Enter the Mo'a Keet Shrine and complete **Metal Makes a Path**. `(19/24)`
+Cook the 4 Fleet-Lotus Seeds to get a **Lvl. 3 Speed Meal**.
 
-Either glide to or perform a Stasis Launch (using a tree near the stable) to the Sah Dahaj Shrine, complete **Power of Fire**.`(20/24)`
-> Optional: Get the **Double Axe** first.
+Run up to Mo'a Keet but only activate it.
+
+Either glide to or perform a Stasis Launch (using a tree near the stable) to the Sah Dahaj Shrine, complete **Power of Fire**.`(19/24)`
+> Optional: Get the **Double Axe** near the trees in the stable first.
 
 Climb the mountain on your left side and head to the withered trees on the other side of the Boko Base.
 
 Perform a Rocket Launch using one of the 3 trees to get to cross the gap between the mountains.
 
-Use the Fireproof Elixir and climb the mountains (using all 3 Gale charges) until you get to Daqa Koh Shrine, complete **Stalled Flight**. `(21/24)`
+Use the Fireproof Elixir and climb the mountains (using all 3 Gale charges) until you get to Daqa Koh Shrine, complete **Stalled Flight**. `(20/24)`
 
 Glide into Goron City, be careful with the falling fire rocks.
 
-Go to the equipment store and buy the **Flamebreaker Boots** (700 Rupees).
+Go to the equipment store and buy the **Flamebreaker Boots** (700 Rupees), equip it afterwards.
 > Optional: Buy also the Flamebreaker Armor for safety if you have enough money (600 rupees).
 
 Talk to Bludo to activate the Vah Rudania quest.
@@ -370,19 +353,21 @@ On the way to the mines, grab one of the pots nearby and perform a Stasis Launch
 
 > Optional: You can skip the pot launch for a safer but slower mine section.
 
-Evade the Lizalfos and get to the last cannon, use the cannon to break the wall of rocks.
+Evade the Lizalfos and get to the last cannon, use it to break the wall of rocks and free Yunobo.
 
 Grab the Ice Arrows from the chest then talk to Yunobo.
 > Optional: There are various two-handed weapons in this room, grab if you feel you might need some (recommended).
 
-Perform a pot launch back to Shae Mo'sah, complete **Swinging Flames**. `(22/24)`
-> Optional: You can also teleport to the shrine instead, this is sligthly slower but safer.
+Perform a pot launch back to Shae Mo'sah and eat your Speed Meal immediately after landing, complete **Swinging Flames**. `(21/24)`
+> Optional: You can also teleport to the shrine instead if you activated it before, this is sligthly slower but safer.
 
 Talk to Bludo again for Daruk's Memory cutscene.
 
 ### Zora's Domain
 
-Teleport to Mo'a Keet and perform a Rocket Launch to get on top of the mountains behind Zora's Domain.
+Teleport to Mo'a Keet and complete **Metal Makes a Path**. `(22/24)`
+
+Perform a Rocket Launch to get on top of the mountains behind Zora's Domain.
 
 Glide directly to Zora's Domain and talk to King Dorephan to obtain the **Zora Armor**, equip it.
 
@@ -408,7 +393,7 @@ After obtaining Mipha's Grace warp back to Daqa Koh Shrine.
 ### Divine Beast Vah Rudania
 
 Help Yunobo (once again) by defeating the two Moblins. Use 1 fury and the Great Eagle Bow with Shock Arrows.
-> Safety: Use the Duplex Bow instead.
+> Optional: Use the Duplex Bow instead for save up the duration of the Great Eagle Bow for later boss fights.
 
 Bring down the Bridge of Eldin to enter the Vah Rudania fight.
 
@@ -425,25 +410,24 @@ Grab the **Heart Container** after the fight and get Daruk's Protection.
 
 ### Korok Forest
 
-> Optional: Deactivate Daruk's Protection.
-
 Perform a pot Stasis Launch to fly across the mountains.
+> Optional: Deactivate Daruk's Protection to save the charges for the Calamity Ganon fight.
 
 Using one of the three rocks near the landing spot, launch to the area outside Lost Woods.
 
-Perform a Stasis Launch with one of the trees. If you fail, continue using the intended Lost Woods route.
+Perform a Stasis Launch with one of the trees, eat the last Speed Meal immediately after landing.
+> Note: If you void out during the launch, eat the Speed Meal and continue along with the intended route on the ground.
 
 After getting into Korok Forest, go to the Keo Ruug Shrine and complete **Fateful Stars**. `(24/24)`
 
-Run to the Goddess' Statue inside the Deku Tree and use all your spirit orbs to get Heart Containers. You should have in total 13 hearts afterwards.
+Run to the Goddess' Statue inside the Deku Tree and use all your spirit orbs to get Heart Containers. You should have 13 hearts in total afterwards.
 
 Pick up the **Master Sword**.
 
 ### Hyrule Castle
 
-Teleport to Katah Chuki, eat the Hasty Simmered Fruit and enter the Castle from the southwest side near the waterfall.
-
-Reactivate Daruk's Protection.
+Teleport to Katah Chuki and enter the Castle from the southwest side near the waterfall.
+> Optional: Reactivate Daruk's Protection now if you deactivated it before in Goron City.
 
 Use your gales and the waterfalls to reach the Sanctum.
 
