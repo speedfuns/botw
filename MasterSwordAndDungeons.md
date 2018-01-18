@@ -24,14 +24,15 @@ Credits
 
 ### Changelog
 
-- **2018/01/17** - Several changes made to the route, video clips added
+- **2018/01/17** - Several video clips added to demonstrat shrines and the launch gauntlet.
+- **2018/01/17** - Several changes made to the route.
   - The section after completing Naboris now skips using a horse, using instead several launches to travel.
   - Bosh Kala and Daka Tuss removed from the route.
   - Added Bareeda Naag between Tabantha Stable and Rito Village, and Sho Dantu right before Yiga Hideout.
   - Added an extra speed meal.
   - Some minor route changes and grammar fixes.
 - **2018/01/14** - Updated with newer strats, food routing, and shrine routing.
-- **2017/11/27** - Added external links
+- **2017/11/27** - Added external links.
 - **2017/11/26**
   - **Thanks to Jesterhead92, now we have an alternative route for MSD!**. The route in this document will be named "Original Route" and the newer route will be called "Flying Machine Route".
   - Changes to Original Route:
@@ -45,7 +46,7 @@ Credits
   - Added the new [Flying Machine Route](https://github.com/speedfuns/botw/blob/master/MasterSwordAndDungeons_FlyingMachine.md).
   - Fixed several grammar and spelling mistakes.
 - **2017/07/14** - Added a new Speed Elixir in Wetlands Stable and removed the one of the Speed Meals. Tabantha Stable and Rito Village sections remade for newer strats. Several other little changes for small optimizations.
-- **2017/05/25** - Changed route to include Warm Doublet
+- **2017/05/25** - Changed route to include Warm Doublet.
 
 ### Minimum Rupee Usage
 
