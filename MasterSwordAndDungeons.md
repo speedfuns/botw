@@ -236,7 +236,7 @@ Use the last Gale (3/3) to reach the top of the cliff to the right after getting
 
 Pick up a luminous stone and place it on the pedestal.
 
-Enter Sho Dantu, complete **Two Bombs**. `(12/24)`
+Enter Sho Dantu, complete **Two Bombs** [[Video](https://twitter.com/JKTKops/status/953829422691270656)]. `(12/24)`
 
 Evade the enemies and enter the Yiga Clan Hideout.
 
@@ -268,7 +268,7 @@ Use Magnesis on the wall to enter the **Master Kogha** boss fight.
 
 Defeat Kohga using arrows and the Edge of Duality. Get the **Thunder Helm** from the chest, warp to Daqo Chisay afterwards.
 
-Complete **The Whole Picture**. `(13/24)`
+Complete **The Whole Picture** [[Video](https://twitter.com/JKTKops/status/953830487440605184)]. `(13/24)`
 
 Climb and enter Gerudo Town. Sell any ore you have and buy 30 Shock Arrows from the vendor (420 rupees).
 > Optional: Buy extra regular arrows as well.
