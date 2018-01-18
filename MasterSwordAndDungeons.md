@@ -24,7 +24,7 @@ Credits
 
 ### Changelog
 
-- **2018/01/17** - Several video clips added to demonstrat shrines and the launch gauntlet.
+- **2018/01/17** - Several video clips added to demonstrate shrines and the launch gauntlet.
 - **2018/01/17** - Several changes made to the route.
   - The section after completing Naboris now skips using a horse, using instead several launches to travel.
   - Bosh Kala and Daka Tuss removed from the route.
