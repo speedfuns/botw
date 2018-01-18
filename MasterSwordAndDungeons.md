@@ -301,7 +301,8 @@ After obtaining **Urbosa's Fury**, warp to Oman Au.
 
 Perform a Stasis Launch with a metal box to the forest area near Lake Kolomo. [[Video](https://twitter.com/JKTKops/status/953780288731172864)]
 
-Height Launch to Wahgo Katta [[Video](https://twitter.com/JKTKops/status/953786740401061889)]  and complete **Metal Connections**  [[Video](https://twitter.com/JKTKops/status/953823431262220289)]. `(14/24)`
+
+Kill the nearby octorok, then Height Launch to Wahgo Katta [[Video](https://twitter.com/JKTKops/status/953786740401061889)]  and complete **Metal Connections**  [[Video](https://twitter.com/JKTKops/status/953823431262220289)]. `(14/24)`
 
 > Note: After this shrine, the fastest way to cross the Wetlands is by performing several continuous launches. If you want a safer way to do this section, get your horse (needs to be registered) from the stable and try to follow the shrine route without all the launches. Doing it this way loses about 90 seconds over the optimal way.
 
