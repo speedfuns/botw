@@ -353,7 +353,7 @@ Use the Fireproof Elixir and climb the mountains (using all 3 Gale charges) unti
 Glide into Goron City. Be careful with the molten rock hail.
 
 Go to the equipment store and buy the **Flamebreaker Boots** (700 Rupees), equip it afterwards.
-> Optional: You can also the Flamebreaker Armor for safety if you have enough money (600 rupees).
+> Optional: You can also buy the Flamebreaker Armor for safety if you have enough money (600 rupees).
 
 Talk to Bludo to activate the Vah Rudania quest.
 
