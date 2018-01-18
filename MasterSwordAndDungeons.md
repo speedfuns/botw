@@ -167,7 +167,7 @@ Enter Bareeda Naag and complete **Canon**. `(9/24)`
 
 Perform a Rocket Launch to Akh Va'quot. Activate the Vah Medoh cutscene.
 
-Enter Akh Va'quot and complete **Windmills**. `(10/24)`
+Enter Akh Va'quot and complete **Windmills** [[Video](https://twitter.com/JKTKops/status/953836527146090496)]. `(10/24)`
 
 Run and climb to the Elder.
 
