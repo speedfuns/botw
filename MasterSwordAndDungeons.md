@@ -64,6 +64,10 @@ Flamebreaker Boots | 700
 
 ## Route
 
+This map provides an overview of the overworld movement involved in this route. The branches are completed in rainbow order.
+
+![MSDRouteMap](https://cdn.discordapp.com/attachments/403292556676300800/403422345416540160/BotWShrineMap.png)
+
 ### Great Plateau
 
 Watch the intro and run down the hill to the right after stepping out of the Shrine of Resurrection.
