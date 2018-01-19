@@ -76,7 +76,7 @@ Grab the **Woodcutter's Axe**.
 
 Pick up the second rock you see and get a guaranteed **High-tail Lizard**.
 
-Get the **Hylian Herb** near the tree after the Zelda mini-cutscene.
+Get the **Hylian Herb** near the tree after the Zelda mini-cutscene. Also get the two **Apples** in the tree.
 
 Grab some arrows passing the Bokoblins on the hill.
 
@@ -122,10 +122,10 @@ Warp to **Oman Au** and launch near Lake Kolomo, pick up a horse.
 
 > Note: When picking up a horse, you're aiming to get one with a 4-speed stat. There's no precise way to know which one is a 4-speed, but there are some clues which can help you: the leader and spotted horses are never 4-speed; 4-speed horses always have a 3-stamina stat.
 
-Head straight to the Kaam Ya'tak shrine.
+Head straight to the Kaam Ya'tak shrine. Grab the **Hearty Radish** near the shrine.
 
 Get Edge of Duality and the Diamond from **Test of Power**, complete it [[Half 1](https://twitter.com/JKTKops/status/953826020901072896)] [[Half 2](https://twitter.com/JKTKops/status/953825221374439424)]. `(5/24)`
-> Note: If you use the second bomb boost, heal with 2 Hylian Herbs and 1 Hylian Shroom before the second boost.
+> Note: If you use the second bomb boost, be sure to heal before the second boost.
 
 Go to Katah Chuki shrine, before activating the shrine, grab the **Fire Arrows** from the chest standing atop of the brick wall nearby.
 > Note: Skip getting the Fire Arrows here if you decided to pick the ones near Magnesis before.
@@ -140,9 +140,11 @@ Head to Shae Loya and complete **Aim for the Moment** `(8/24)`
 
 Grab a bundle of **Wood** and the three **Spicy Peppers**.
 
-Talk to Toren for 500 rupees, afterwards grab the three **Wild Berries** and the **Woodcutter Axe** near the cart.
-
 > Optional: You can register your horse here for safety later in the run.
+
+Talk to Toren for 500 rupees, then cook the Hearty Radish. Eat the resulting meal.
+
+Grab the three **Wild Berries** and the **Woodcutter Axe** near the cart.
 
 Perform a Stasis Launch to the area near the Stone Talus.
 
