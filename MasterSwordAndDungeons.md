@@ -24,7 +24,8 @@ Credits
 
 ### Changelog
 
-- **2018/01/17** - Several video clips added to demonstrate shrines and the launch gauntlet.
+- **2018/01/18** - Fixed a number of grammar and spelling mistakes. Added a few more video clips. Adjusted food routing.
+- **2018/01/17** - Several video clips added to demonstrate a number of shrines and launches.
 - **2018/01/17** - Several changes made to the route.
   - The section after completing Naboris now skips using a horse, using instead several launches to travel.
   - Bosh Kala and Daka Tuss removed from the route.
@@ -64,6 +65,10 @@ Flamebreaker Boots | 700
 
 ## Route
 
+This map provides an overview of the overworld movement involved in this route. The branches are completed in rainbow order.
+
+![MSDRouteMap](https://cdn.discordapp.com/attachments/403292556676300800/403422345416540160/BotWShrineMap.png)
+
 ### Great Plateau
 
 Watch the intro and run down the hill to the right after stepping out of the Shrine of Resurrection.
@@ -72,7 +77,7 @@ Grab the **Woodcutter's Axe**.
 
 Pick up the second rock you see and get a guaranteed **High-tail Lizard**.
 
-Get the **Hylian Herb** near the tree after the Zelda mini-cutscene.
+Get the **Hylian Herb** near the tree after the Zelda mini-cutscene. Also get the two **Apples** in the tree.
 
 Grab some arrows passing the Bokoblins on the hill.
 
@@ -118,10 +123,10 @@ Warp to **Oman Au** and launch near Lake Kolomo, pick up a horse.
 
 > Note: When picking up a horse, you're aiming to get one with a 4-speed stat. There's no precise way to know which one is a 4-speed, but there are some clues which can help you: the leader and spotted horses are never 4-speed; 4-speed horses always have a 3-stamina stat.
 
-Head straight to the Kaam Ya'tak shrine.
+Head straight to the Kaam Ya'tak shrine. Grab the **Hearty Radish** near the shrine.
 
 Get Edge of Duality and the Diamond from **Test of Power**, complete it [[Half 1](https://twitter.com/JKTKops/status/953826020901072896)] [[Half 2](https://twitter.com/JKTKops/status/953825221374439424)]. `(5/24)`
-> Note: If you use the second bomb boost, heal with 2 Hylian Herbs and 1 Hylian Shroom before the second boost.
+> Note: If you use the second bomb boost, be sure to heal before the second boost.
 
 Go to Katah Chuki shrine, before activating the shrine, grab the **Fire Arrows** from the chest standing atop of the brick wall nearby.
 > Note: Skip getting the Fire Arrows here if you decided to pick the ones near Magnesis before.
@@ -136,9 +141,11 @@ Head to Shae Loya and complete **Aim for the Moment** `(8/24)`
 
 Grab a bundle of **Wood** and the three **Spicy Peppers**.
 
-Talk to Toren for 500 rupees, afterwards grab the three **Wild Berries** and the **Woodcutter Axe** near the cart.
+Talk to Toren for 500 rupees, then cook the Hearty Radish. Eat the resulting meal.
 
 > Optional: You can register your horse here for safety later in the run.
+
+Grab the three **Wild Berries** and the **Woodcutter Axe** near the cart.
 
 Perform a Stasis Launch to the area near the Stone Talus.
 
@@ -162,7 +169,7 @@ Build a campfire with the **Wood** and a **Fire Arrow**, sleep 'till noon (secon
 
 Perform a Stasis Launch to the Bareeda Naag pedestal. As you pass over the location of the shrine, shoot the pedestal with a **Fire Arrow**.
 
-Enter Bareeda Naag and complete **Canon**. `(9/24)`
+Enter Bareeda Naag and complete **Canon** [[Video](https://twitter.com/JKTKops/status/951284655168172033)]. `(9/24)`
 
 ### Rito Village
 
@@ -193,12 +200,12 @@ Grab the **Falcon Bow** from the Chest and talk to Teba again to start the Medoh
 
 ### Divine Beast Vah Medoh
 
-Defeat the Divine Beast by shooting bomb arrows to the laser guns.
+Defeat the Divine Beast by shooting bomb arrows at the laser guns.
 
 Free **Vah Medoh** using the "mapless" route.
 - Open the chest in the central room after going up the wall to get an **Ancient Core**.
 - Make sure to grab the 10 Ice Arrows after the 4th terminal.
-> Optional: Grab the extra 5 Bomb Arrows after the last terminal if you missed any shots during the Vah'Medoh fight.
+> Optional: Grab the extra 5 Bomb Arrows after the last terminal if you missed any shots during the Vah Medoh fight.
 
 Defeat Windblight Ganon using the Falcon Bow. Grab the **Heart Container** after.
 
@@ -228,7 +235,7 @@ Use a Gale charge (1/3) to get on top of the rock and buy the **Gerudo Clothes**
 
 Glide down and left to grab the **Double Axe** against a tree. Warp back to Daqo Chisay.
 
-Use a Gale charge (2/3) to get inside Gerudo Town and head directly to **Riju**, talk to her then talk to the Gerudo Chief Liana to start the Yiga Clan quest.
+Use a Gale charge (2/3) to get inside Gerudo Town and head directly to **Riju**, talk to her, then talk to the Gerudo Chief Liana to start the Yiga Clan quest.
 
 Rent a seal, head to the Yiga Clan Hideout evading any rocks on the path.
 
@@ -301,7 +308,8 @@ After obtaining **Urbosa's Fury**, warp to Oman Au.
 
 Perform a Stasis Launch with a metal box to the forest area near Lake Kolomo. [[Video](https://twitter.com/JKTKops/status/953780288731172864)]
 
-Height Launch to Wahgo Katta [[Video](https://twitter.com/JKTKops/status/953786740401061889)]  and complete **Metal Connections**  [[Video](https://twitter.com/JKTKops/status/953823431262220289)]. `(14/24)`
+
+Kill the nearby octorok, then Height Launch to Wahgo Katta [[Video](https://twitter.com/JKTKops/status/953786740401061889)]  and complete **Metal Connections**  [[Video](https://twitter.com/JKTKops/status/953823431262220289)]. `(14/24)`
 
 > Note: After this shrine, the fastest way to cross the Wetlands is by performing several continuous launches. If you want a safer way to do this section, get your horse (needs to be registered) from the stable and try to follow the shrine route without all the launches. Doing it this way loses about 90 seconds over the optimal way.
 
@@ -365,10 +373,10 @@ On the way to the mines, grab one of the pots nearby and perform a Stasis Launch
 
 Evade the Lizalfos and get to the last cannon, use it to break the wall of rocks and free Yunobo.
 
-Grab the Ice Arrows from the chest then talk to Yunobo.
+Grab the Ice Arrows from the chest, then talk to Yunobo.
 > Optional: There are various two-handed weapons in this room, grab if you feel you might need some (recommended).
 
-Perform a pot launch back to Shae Mo'sah and eat your Speed Meal immediately after landing.
+Perform a pot launch back to Shae Mo'sah [[Video](https://twitter.com/JKTKops/status/952042607848247297)] and eat your Speed Meal immediately after landing.
 
 Complete **Swinging Flames** [[Video](https://twitter.com/JKTKops/status/952300703678054400)]. `(21/24)`
 > Optional: You can also teleport to the shrine instead if you activated it before, this is sligthly slower but safer.
@@ -379,7 +387,7 @@ Talk to Bludo again for Daruk's Memory cutscene.
 
 Teleport to Mo'a Keet and complete **Metal Makes a Path**. `(22/24)`
 
-Perform a Rocket Launch to get on top of the mountains behind Zora's Domain.
+Perform a Rocket Launch to get on top of the mountains behind Zora's Domain [[Video](https://twitter.com/JKTKops/status/953859324815720448)].
 
 Glide directly to Zora's Domain and talk to King Dorephan to obtain the **Zora Armor**, equip it.
 
@@ -387,8 +395,8 @@ Go directly to the Ne'ez Yohma shrine and pick up 2 Fleet-Lotus Seeds.
 
 Complete **Pushing Power** afterwards [[Video](https://twitter.com/JKTKops/status/952301759791226880)]. `(23/24)`
 
-Collect the other 2 Fleet-Lotus Seesd, then cook the Fleet-Lotus Seeds in the cooking pot nearby to obtain a **Hasty Simmered Fruit**.
-> Optional: Include an extra Hyrule Herb from the mountain to extend the duration of the speed up.
+Collect the other 2 Fleet-Lotus Seeds, then cook the Fleet-Lotus Seeds in the cooking pot nearby to obtain a **Hasty Simmered Fruit**.
+> Optional: Include another neutral ingredient to extend the duration of the speed up.
 
 Talk to Sidon in front of Mipha's Statue to obtain her Memory.
 
@@ -402,7 +410,7 @@ For the dungeon, use the latest route with 3 Gale charges.
 
 Defeat Waterblight Ganon using one of the Lvl. 3 Attack meals and Shock Arrows. Grab the **Heart Container**.
 
-After obtaining Mipha's Grace warp back to Daqa Koh Shrine.
+After obtaining Mipha's Grace, warp back to Daqa Koh Shrine.
 
 ### Divine Beast Vah Rudania
 
@@ -411,7 +419,7 @@ Help Yunobo (once again) by defeating the two Moblins. Use 1 fury and the Great 
 
 Bring down the Bridge of Eldin to enter the Vah Rudania fight.
 
-Make sure Yunobo doesn't get caught and kill the mini-flying guardians with Metal Boxes. Kill the first moblin with bullet-time headshots (extra shock arrows) and kill the second two with a metal box.
+Make sure Yunobo doesn't get caught and kill the sentries with Metal Boxes. Kill the first moblin with bullet-time headshots (extra shock arrows) and kill the second two with a metal box.
 
 > Note: Be sure to use all 3 Urbosa's Fury chargest at some point during the escort. The optimal use for the other two is to kill the first sentry and skip its cycle. Safe backups include saving them for the moblin camps or using all three to save Yunobo.
 
@@ -425,7 +433,6 @@ Grab the **Heart Container** after the fight and get Daruk's Protection.
 ### Korok Forest
 
 Perform a pot Stasis Launch to fly across the mountains.
-> Optional: Deactivate Daruk's Protection to save the charges for the Calamity Ganon fight.
 
 Using one of the three rocks near the landing spot, launch to the area outside Lost Woods.
 
@@ -441,9 +448,8 @@ Pick up the **Master Sword**.
 ### Hyrule Castle
 
 Teleport to Katah Chuki and enter the Castle from the southwest side near the waterfall.
-> Optional: Reactivate Daruk's Protection now if you deactivated it before in Goron City.
 
-Use your gales and the waterfalls to reach the Sanctum.
+Use the waterfalls and your gales to reach the Sanctum.
 
 Defeat Calamity Ganon.
 
