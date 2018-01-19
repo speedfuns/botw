@@ -141,9 +141,9 @@ Head to Shae Loya and complete **Aim for the Moment** `(8/24)`
 
 Grab a bundle of **Wood** and the three **Spicy Peppers**.
 
-> Optional: You can register your horse here for safety later in the run.
-
 Talk to Toren for 500 rupees, then cook the Hearty Radish. Eat the resulting meal.
+
+> Optional: You can register your horse here for safety later in the run.
 
 Grab the three **Wild Berries** and the **Woodcutter Axe** near the cart.
 
