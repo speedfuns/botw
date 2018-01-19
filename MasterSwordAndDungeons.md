@@ -123,7 +123,8 @@ Warp to **Oman Au** and launch near Lake Kolomo, pick up a horse.
 
 > Note: When picking up a horse, you're aiming to get one with a 4-speed stat. There's no precise way to know which one is a 4-speed, but there are some clues which can help you: the leader and spotted horses are never 4-speed; 4-speed horses always have a 3-stamina stat.
 
-Head straight to the Kaam Ya'tak shrine. Grab the **Hearty Radish** near the shrine.
+Head straight to the Kaam Ya'tak shrine.
+> Optional: Grab the **Hearty Radish** near the shrine if you use the second boost in the shrine. Also get it if you've needed to use more than 1 extra Hyrule Herb.
 
 Get Edge of Duality and the Diamond from **Test of Power**, complete it [[Half 1](https://twitter.com/JKTKops/status/953826020901072896)] [[Half 2](https://twitter.com/JKTKops/status/953825221374439424)]. `(5/24)`
 > Note: If you use the second bomb boost, be sure to heal before the second boost.
@@ -141,7 +142,8 @@ Head to Shae Loya and complete **Aim for the Moment** `(8/24)`
 
 Grab a bundle of **Wood** and the three **Spicy Peppers**.
 
-Talk to Toren for 500 rupees, then cook the Hearty Radish. Eat the resulting meal.
+Talk to Toren for 500 rupees.
+> Note: If you got the Hearty Radish, cook it and immediately eat the resulting meal.
 
 > Optional: You can register your horse here for safety later in the run.
 
