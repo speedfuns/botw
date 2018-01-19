@@ -24,6 +24,7 @@ Credits
 
 ### Changelog
 
+- **2018/01/18** - Fixed a number of grammar and spelling mistakes. Added a few more video clips. Adjusted food routing.
 - **2018/01/17** - Several video clips added to demonstrate a number of shrines and launches.
 - **2018/01/17** - Several changes made to the route.
   - The section after completing Naboris now skips using a horse, using instead several launches to travel.
