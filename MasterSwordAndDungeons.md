@@ -169,7 +169,7 @@ Build a campfire with the **Wood** and a **Fire Arrow**, sleep 'till noon (secon
 
 Perform a Stasis Launch to the Bareeda Naag pedestal. As you pass over the location of the shrine, shoot the pedestal with a **Fire Arrow**.
 
-Enter Bareeda Naag and complete **Canon**. `(9/24)`
+Enter Bareeda Naag and complete **Canon** [[Video](https://twitter.com/JKTKops/status/951284655168172033)]. `(9/24)`
 
 ### Rito Village
 
