@@ -290,7 +290,7 @@ Use 4 Bananas to cook a Level 3 Attack meal at least four times (so you will end
 Go outside Riju's Room and talk to her to watch the Urbosa's Memory cutscene.
 
 Head to the Watchtower, climb to the top and talk to Riju to start the Vah'Naboris fight.
-> Note: Performing a Height Launch is the fastest way to get to the outpost [[Video](https://twitter.com/Zants/status/938727941416017920)]. You may also rent a sand seal (20 rupees) or shield surf to get there.
+> Note: Performing a Height Launch is the fastest way to get to the outpost [[Video](https://twitter.com/JKTKops/status/954487082965069824)]. You may also rent a sand seal (20 rupees) or shield surf to get there.
 
 ### Divine Beast Vah Naboris
 
