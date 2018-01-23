@@ -350,16 +350,16 @@ Head directly to the Foothill Stable. Buy at least **1 Fireproof Elixir** from t
 Cook the 4 Fleet-Lotus Seeds and any neutral ingredient to get a **Lvl. 3 Speed Meal**.
 > Note: Neutral ingredients are: Hylian Herbs, Hylian Shrooms, Wild Berries, and Acorns.
 
-Run up to Mo'a Keet but only activate it.
+Run up to Mo'a Keet, complete **Metal Makes a Path**. `(19/24)`
 
-Either glide to or perform a Stasis Launch (using a tree near the stable) to the Sah Dahaj Shrine, complete **Power of Fire**.`(19/24)`
+Either glide to or perform a Stasis Launch (using a tree near the stable) to the Sah Dahaj Shrine, complete **Power of Fire**.`(20/24)`
 > Optional: Get the **Double Axe** near the trees in the stable first.
 
 Climb the mountain on your left side and head to the withered trees on the other side of the Boko Base.
 
 Perform a Rocket Launch using one of the 3 trees to get to cross the gap between the mountains.
 
-Use the Fireproof Elixir and climb the mountains (using all 3 Gale charges) until you get to Daqa Koh Shrine, complete **Stalled Flight**. `(20/24)`
+Use the Fireproof Elixir and climb the mountains (using all 3 Gale charges) until you get to Daqa Koh Shrine, complete **Stalled Flight**. `(21/24)`
 
 Glide into Goron City. Be careful with the molten rock hail.
 
@@ -380,14 +380,14 @@ Grab the Ice Arrows from the chest, then talk to Yunobo.
 
 Perform a pot launch back to Shae Mo'sah [[Video](https://twitter.com/JKTKops/status/952042607848247297)] and eat your Speed Meal immediately after landing.
 
-Complete **Swinging Flames** [[Video](https://twitter.com/JKTKops/status/952300703678054400)]. `(21/24)`
+Complete **Swinging Flames** [[Video](https://twitter.com/JKTKops/status/952300703678054400)]. `(22/24)`
 > Optional: You can also teleport to the shrine instead if you activated it before, this is sligthly slower but safer.
 
 Talk to Bludo again for Daruk's Memory cutscene.
 
 ### Zora's Domain
 
-Teleport to Mo'a Keet and complete **Metal Makes a Path**. `(22/24)`
+Teleport to Mo'a Keet.
 
 Perform a Rocket Launch to get on top of the mountains behind Zora's Domain [[Video](https://twitter.com/JKTKops/status/953859324815720448)].
 
