@@ -24,6 +24,7 @@ Credits
 
 ### Changelog
 
+- **2018/01/24** - Complete reroute of the first post-plateau section.
 - **2018/01/18** - Fixed a number of grammar and spelling mistakes. Added a few more video clips. Adjusted food routing.
 - **2018/01/17** - Several video clips added to demonstrate a number of shrines and launches.
 - **2018/01/17** - Several changes made to the route.
@@ -67,7 +68,7 @@ Flamebreaker Boots | 700
 
 This map provides an overview of the overworld movement involved in this route. The branches are completed in rainbow order.
 
-![MSDRouteMap](https://cdn.discordapp.com/attachments/403292556676300800/403422345416540160/BotWShrineMap.png)
+![MSDRouteMap](https://cdn.discordapp.com/attachments/403292556676300800/405944309536391178/NewMSDRoute.png)
 
 ### Great Plateau
 
@@ -88,9 +89,10 @@ Activate the **Great Plateau Tower**.
 Climb down the tower or perform a Fall Damage Cancel.
 
 Run to the **Magnesis Trial** and complete it. `(1/24)`
+> DLC: Grab the **Ruby** in the nearby chest.
 
-Grab the **Hylian Herbs** behind Magnesis to heal from launches later.
-> Optional: You may grab **Ice Arrows** from the chest in the middle of the swamp to reduce horse RNG later. If you do this, also get **Fire Arrows** to activate Bareeda Naag later.
+> Optional: Grab the **Hylian Herbs** behind Magnesis for safety.
+> Optional: You may grab **Ice Arrows** from the chest in the middle of the swamp to reduce horse RNG later. If you do this, also get **Fire Arrows**, as Bareeda Naag is faster than Shae Loya if you have them.
 
 Warp to the **Shrine of Resurrection**.
 
@@ -118,32 +120,34 @@ Return to the area with trees and use one of them to get on top of the Temple of
 
 ### Central and Ridgeland Region
 
-Warp to **Oman Au** and launch near Lake Kolomo, pick up a horse.
-> DLC: Open the EX chest for a **Ruby** before launching.
+Warp to Cryonis and chest launch to Rota Ooh. Note: **DO NOT** open the chest, you need it again later.
+> DLC: Use the chest above the ruined house instead (contains bomb arrows).
 
-> Note: When picking up a horse, you're aiming to get one with a 4-speed stat. There's no precise way to know which one is a 4-speed, but there are some clues which can help you: the leader and spotted horses are never 4-speed; 4-speed horses always have a 3-stamina stat.
+Enter Rota Ooh and complete **Passing of the Gates**. `(5/24)`
 
-Head straight to the Kaam Ya'tak shrine.
-> Optional: Grab the **Hearty Radish** near the shrine if you use the second boost in the shrine. Also get it if you've needed to use more than 1 extra Hyrule Herb.
+Perform a Vertical Height Launch to the Kaam Ya'tak shrine, grabbing the **Hearty Radish** on the way.
 
-Get Edge of Duality and the Diamond from **Test of Power**, complete it [[Half 1](https://twitter.com/JKTKops/status/953826020901072896)] [[Half 2](https://twitter.com/JKTKops/status/953825221374439424)]. `(5/24)`
-> Note: If you use the second bomb boost, be sure to heal before the second boost.
+Get Edge of Duality and the Diamond from **Test of Power**, complete it [[Half 1](https://twitter.com/JKTKops/status/953826020901072896)] [[Half 2](https://twitter.com/JKTKops/status/953825221374439424)]. `(6/24)`
+> Note: If you use the second bomb boost, be sure to heal first.
 
-Go to Katah Chuki shrine, before activating the shrine, grab the **Fire Arrows** from the chest standing atop of the brick wall nearby.
-> Note: Skip getting the Fire Arrows here if you decided to pick the ones near Magnesis before.
+Run up the mountain behind Kaam Ya'tak, use the tree at the top to launch towards Giant's Forest.
 
-Complete **A Minor Test of Strength** using the Edge of Duality. `(6/24)`
+Catch a horse from the pack in the forest, ride it to Katah Chuki.
+> Note: When catching a horse, you're aiming for a 4-speed horse. Some tips: Spotted horses are never 4 speed, the leader is never 4 speed. Unfortunately, stamina and speed don't seem to be related at this pack, so it's hard to tell if you're successful.
 
-Head to Zalta Wa shrine and complete **Two Orbs to Guide You**. `(7/24)`
+Complete **A Minor Test of Strength** using the Edge of Duality. `(7/24)`
 
-Head to Shae Loya and complete **Aim for the Moment** `(8/24)`
+Head to Zalta Wa shrine and complete **Two Orbs to Guide You**. `(8/24)`
+
+Head to Shae Loya and complete **Aim for the Moment** `(9/24)`
+> Optional: If you got the elemental arrows on plateau, skip this shrine, and complete Bareeda Naag later.
 
 ### Tabantha Stable
 
-Grab a bundle of **Wood** and the three **Spicy Peppers**.
+Grab a the three **Spicy Peppers**.
+> Note: If you skipped Shae Loya, also get a bundle of **Wood** to set time of day for Bareeda Naag.
 
 Talk to Toren for 500 rupees.
-> Note: If you got the Hearty Radish, cook it and immediately eat the resulting meal.
 
 > Optional: You can register your horse here for safety later in the run.
 
@@ -167,26 +171,22 @@ Diamond | 500
 
 Climb the mountain.
 
-Build a campfire with the **Wood** and a **Fire Arrow**, sleep 'till noon (second option).
+> Optional: Build a campfire with the **Wood** and a **Fire Arrow**, sleep 'till noon (second option). Perform a Stasis Launch to the Bareeda Naag pedestal. As you pass over the location of the shrine, shoot the pedestal with a **Fire Arrow**. Enter Bareeda Naag and complete **Canon** [[Video](https://twitter.com/JKTKops/status/951284655168172033)]. `(9/24)`
 
-Perform a Stasis Launch to the Bareeda Naag pedestal. As you pass over the location of the shrine, shoot the pedestal with a **Fire Arrow**.
+> Optional: If you do Bareeda Naag, perform a rocket launch straight to Akh Va'quot and complete it now.
 
-Enter Bareeda Naag and complete **Canon** [[Video](https://twitter.com/JKTKops/status/951284655168172033)]. `(9/24)`
+Perform a traditional launch to the third island near Rito Villiage.
 
 ### Rito Village
 
-Perform a Rocket Launch to Akh Va'quot. Activate the Vah Medoh cutscene.
-
-Enter Akh Va'quot and complete **Windmills** [[Hard](https://twitter.com/JKTKops/status/953836527146090496)] [[Easy](https://twitter.com/JKTKops/status/953840190295912448)]. `(10/24)`
-
-Run and climb to the Elder.
+Perform a Rocket Launch to the Rito Elder. Activate the Vah Medoh cutscene.
 
 Talk to the Elder, then talk to Saki for Revali's memory cutscene.
 
 Go to the Rito Shop, buy **4 Sunshrooms** and at least a bundle of **5 Arrows**.
 > Note: Getting 4 Shrooms is the same speed as getting two, so it's better to get all of them.
 
-Launch to the Sha Warvo shrine and complete **Path of Hidden Winds**. `(11/24)`
+Launch to the Sha Warvo shrine and complete **Path of Hidden Winds**. `(10/24)`
 
 Glide to the Flight Range.
 
@@ -212,6 +212,9 @@ Free **Vah Medoh** using the "mapless" route.
 Defeat Windblight Ganon using the Falcon Bow. Grab the **Heart Container** after.
 
 After you get Revali's Gale, talk to the Elder and grab the **Great Eagle Bow** from the chest.
+
+Enter Akh Va'quot and complete **Windmills** [[Hard](https://twitter.com/JKTKops/status/953836527146090496)] [[Easy](https://twitter.com/JKTKops/status/953840190295912448)]. `(11/24)`
+
 > Optional: Sleep 'till morning with the cooking pot to avoid nightime enemies in Highlands. There's also a Pot Lid nearby if you need it.
 
 Warp to the Cryonis shrine.
