@@ -133,7 +133,7 @@ Get Edge of Duality and the Diamond from **Test of Power**, complete it [[Half 1
 Run up the mountain behind Kaam Ya'tak, use the tree at the top to launch towards Giant's Forest.
 
 Catch a horse from the pack in the forest, ride it to Katah Chuki.
-> Note: When catching a horse, you're aiming for a 4-speed horse. Some tips: Spotted horses are never 4 speed, the leader is never 4 speed. Unfortunately, stamina and speed don't seem to be related at this pack, so it's hard to tell if you're successful.
+> Note: When catching a horse, you're aiming for a 4-speed horse. Some tips: Spotted horses are never 4 speed, the leader is never 4 speed. 2 stamina horses are always 4 speed. 3 Stamina horses can be either 3 or 4 speed. 4 stamina horses *seem* to always be 3 speed.
 
 Complete **A Minor Test of Strength** using the Edge of Duality. `(7/24)`
 
