@@ -3,7 +3,7 @@
 The goal is to complete the four Divine Beasts and get the Master Sword, defeating Ganon in the end.
 
 There are two routes you may use to quickly complete this objective. At the moment, the route provided in this document is faster than the Flying Machine one by a couple of minutes.
-- **[The Original Route](https://github.com/speedfuns/botw/blob/master/MasterSwordAndDungeons.md)** is the original route featured in this document. It's based on the old route of AMQ and does not use flying machine. DLC is optional for this route.
+- **[The Original Route](https://github.com/speedfuns/botw/blob/master/MasterSwordAndDungeons.md)** is the original route featured in this document. It's based on the old route of AMQ and does not use flying machine. The DLC is optional for this route.
 - **[The Flying Machine Route](https://github.com/speedfuns/botw/blob/master/MasterSwordAndDungeons_FlyingMachine.md)** reaches Korok Forest early, getting extra Speed Potions on the way. It also uses a different route for Zora's Domain, using flying machine. The DLC Ruby is **neccesary** for this route.
 
 **Neither route uses Amiibo, Master Mode, Trial of the Sword DLC, or Champions' Ballad DLC.**
@@ -24,6 +24,7 @@ Credits
 
 ### Changelog
 
+- **2018/01/25** - Adjusted some minor route details for precision.
 - **2018/01/24** - Complete reroute of the first post-plateau section.
 - **2018/01/18** - Fixed a number of grammar and spelling mistakes. Added a few more video clips. Adjusted food routing.
 - **2018/01/17** - Several video clips added to demonstrate a number of shrines and launches.
@@ -54,15 +55,16 @@ Credits
 
 Action | Cost
 ------ | ------
+5 Arrows | 30
 Sunshrooms | 64
-5 Arrows | 20
+15 Arrows | 60
 Gerudo Clothes | 600
 Rent Seal | 20
 Shock Arrows | 420
 3 Hot-Footed Frogs | 30
 Fireproof Elixir | 60
 Flamebreaker Boots | 700
-**TOTAL** | **1914**
+**TOTAL** | **1924**
 
 ## Route
 
@@ -81,6 +83,7 @@ Pick up the second rock you see and get a guaranteed **High-tail Lizard**.
 Get the **Hylian Herb** near the tree after the Zelda mini-cutscene. Also get the two **Apples** in the tree.
 
 Grab some arrows passing the Bokoblins on the hill.
+> Note: It is possible to get by with only a single arrow if you have the DLC, however, at least 4 are recommended.
 
 Use the Axe to disarm the Bokoblin and pick up the **Boko Shield**.
 
@@ -125,6 +128,8 @@ Warp to Cryonis and chest launch to Rota Ooh. Note: **DO NOT** open the chest, y
 
 Enter Rota Ooh and complete **Passing of the Gates**. `(5/24)`
 
+> DLC: Find Beedle at the stable, sell him your ruby and buy a bundle of **5 arrows** and **3 Hot-Footed Frogs**.
+
 Perform a Vertical Height Launch to the Kaam Ya'tak shrine, grabbing the **Hearty Radish** on the way.
 
 Get Edge of Duality and the Diamond from **Test of Power**, complete it [[Half 1](https://twitter.com/JKTKops/status/953826020901072896)] [[Half 2](https://twitter.com/JKTKops/status/953825221374439424)]. `(6/24)`
@@ -155,20 +160,6 @@ Grab the three **Wild Berries** and the **Woodcutter Axe** near the cart.
 
 Perform a Stasis Launch to the area near the Stone Talus.
 
-Get the Rare Deposit near the Talus (this deposit is hidden behind a wall of breakable rocks). You should get at least a total of **334 rupees worth of ore** (or 124 if you got the DLC Ruby). 
-> Note: If you got less than the minimum amount, you can grab some ore later inside the Yiga Hideout.
-
-Ore | Sell Price
------ | -----
-Flint | Basically worthless
-Rock Salt | Basically worthless
-Amber | 30
-Opal | 60
-Topaz | 180
-Ruby | 210
-Sapphire | 260
-Diamond | 500
-
 Climb the mountain.
 
 > Optional: Build a campfire with the **Wood** and a **Fire Arrow**, sleep 'till noon (second option). Perform a Stasis Launch to the Bareeda Naag pedestal. As you pass over the location of the shrine, shoot the pedestal with a **Fire Arrow**. Enter Bareeda Naag and complete **Canon** [[Video](https://twitter.com/JKTKops/status/951284655168172033)]. `(9/24)`
@@ -183,7 +174,7 @@ Perform a Rocket Launch to the Rito Elder. Activate the Vah Medoh cutscene.
 
 Talk to the Elder, then talk to Saki for Revali's memory cutscene.
 
-Go to the Rito Shop, buy **4 Sunshrooms** and at least a bundle of **5 Arrows**.
+Go to the Rito Shop, buy **4 Sunshrooms** and all 3 bundles of **5 Arrows**.
 > Note: Getting 4 Shrooms is the same speed as getting two, so it's better to get all of them.
 
 Launch to the Sha Warvo shrine and complete **Path of Hidden Winds**. `(10/24)`
@@ -207,6 +198,7 @@ Defeat the Divine Beast by shooting bomb arrows at the laser guns.
 Free **Vah Medoh** using the "mapless" route.
 - Open the chest in the central room after going up the wall to get an **Ancient Core**.
 - Make sure to grab the 10 Ice Arrows after the 4th terminal.
+> Optional: Skip the Ice Arrows if you got the ones on the plateau.
 > Optional: Grab the extra 5 Bomb Arrows after the last terminal if you missed any shots during the Vah Medoh fight.
 
 Defeat Windblight Ganon using the Falcon Bow. Grab the **Heart Container** after.
@@ -222,8 +214,7 @@ Warp to the Cryonis shrine.
 ### Wasteland Region
 
 Perform a stasis launch either with the wooden chest (harder but faster) or the Korok rock nearby (slower).
-> DLC: You can also grab the 5 Bomb Arrows inside the metal chest nearby.
-
+> DLC: Grab the 5 Bomb Arrows inside the metal chest nearby.
 > DLC: Use the metal chest to perform the launch instead.
 
 Walk through the mountains until you come to the withered tree, perform a stasis launch to the Great Cliffs area.
@@ -267,7 +258,7 @@ Jump and fly directly behind the second guard and run to the ladder.
 Climb the ladder and pick at least **16 Mighty Bananas**.  Burn the middle curtain to your right (in the main room).
 > Note: A Level 3 Attack food is made with 4 bananas, for this route only four Lvl. 3 Attack meals are needed, you can grab extra bananas for healing if you want.
 
-> Optional: If you got a bad ore drop from the ore deposit earlier there are many gems you can collect in the hideout: a Topaz Gem next to the bananas, some Topaz Gems in the final room and a silver rupee chest above the central platform.
+Collect the **Topaz** next to the bananas.
 
 Jump onto the central platform and glide through the burned curtain. Open the two chests for two **Gold Rupees**.
 
@@ -276,6 +267,7 @@ Exit the small room to the left and climb the ladder.
 Jump onto the platform and fly behind the guard.
 
 Break the 3 pots to get extra arrows.
+> No DLC: Also use Magnesis to get the chest with a Ruby in it.
 
 Use Magnesis on the wall to enter the **Master Kogha** boss fight.
 
@@ -283,8 +275,8 @@ Defeat Kohga using arrows and the Edge of Duality. Get the **Thunder Helm** from
 
 Complete **The Whole Picture** [[Video](https://twitter.com/JKTKops/status/953830487440605184)]. `(13/24)`
 
-Climb and enter Gerudo Town. Sell any ore you have and buy 30 Shock Arrows from the vendor (420 rupees).
-> Optional: Buy extra regular arrows as well.
+Climb and enter Gerudo Town. Buy 30 Shock Arrows from the vendor (420 rupees).
+> Optional: Buy extra regular arrows as well (this will require obtaining extra rupees).
 
 Use your bow to light up one of the cooking pots.
 
@@ -313,10 +305,9 @@ After obtaining **Urbosa's Fury**, warp to Oman Au.
 
 Perform a Stasis Launch with a metal box to the forest area near Lake Kolomo. [[Video](https://twitter.com/JKTKops/status/953780288731172864)]
 
-
 Kill the nearby octorok, then Height Launch to Wahgo Katta [[Video](https://twitter.com/JKTKops/status/953786740401061889)]  and complete **Metal Connections**  [[Video](https://twitter.com/JKTKops/status/953823431262220289)]. `(14/24)`
 
-> Note: After this shrine, the fastest way to cross the Wetlands is by performing several continuous launches. If you want a safer way to do this section, get your horse (needs to be registered) from the stable and try to follow the shrine route without all the launches. Doing it this way loses about 90 seconds over the optimal way.
+> Note: After this shrine, the fastest way to cross the Wetlands is by performing several continuous launches. If you want a safer way to do this section, get your horse (needs to be registered) from the stable and try to follow the shrine route without all the launches. Doing it this way loses about 90 seconds over the optimal way. You can also use an Ice Arrow to catch a horse at the pack near Kaya Wan.
 
 Height Launch to Hila Rao, making sure to not land on the flowers [[Video](https://twitter.com/JKTKops/status/953790372441817088)]. Complete **Drifting**. `(15/24)` 
 
@@ -324,7 +315,8 @@ Shield jump over the flowers again and Height Launch north keeping yourself on t
 
 Rocket Launch towards Kaya Wan [[Video](https://twitter.com/JKTKops/status/953481820158308352)] and complete **Shields from Water**. `(16/24)`
 
-Go to the Wetlands Stable and talk to Beedle. Buy **3 Hot-Footed Frogs**.
+Go to the Wetlands Stable.
+> No DLC: If you did not talk to beedle at Outskirt Stable, talk to him now and buy **3 Hot-Footed Frogs**.
 > Optional: Talk to Beedle again to receive an **Ancient Arrow** to use during the escort.
 
 Cook 1 Hightail Lizard, 3 Hot-Frooted Frogs and 1 Ancient Core to get a **Lvl. 3 Hasty Elixir**.
@@ -337,7 +329,7 @@ Perform a regular Stasis Launch [[Video](https://twitter.com/JKTKops/status/9537
 
 Perform a Height Launch towards the east side of the wooden encampment [[Video](https://twitter.com/JKTKops/status/953798795807965184)].
 
-Perform a Rocket Launch to Soh Kofi [[Video](https://twitter.com/JKTKops/status/953798127428894720)]. Complete **A Minor Test of Strength** using the Great Eagle Bow and Shock Arrows. `(17/24)`
+Perform a Rocket Launch to Soh Kofi [[Video](https://twitter.com/JKTKops/status/953798127428894720)]. Complete **A Minor Test of Strength** using an Ice Arrow followed by the Great Eagle Bow and Bomb Arrows. `(17/24)`
 
 > Note: This is the end of the launch gauntlet.
 
@@ -366,7 +358,7 @@ Use the Fireproof Elixir and climb the mountains (using all 3 Gale charges) unti
 
 Glide into Goron City. Be careful with the molten rock hail.
 
-Go to the equipment store and buy the **Flamebreaker Boots** (700 Rupees), equip it afterwards.
+Go to the equipment store and sell the Topaz. Buy the **Flamebreaker Boots** (700 Rupees), equip it afterwards.
 > Optional: You can also buy the Flamebreaker Armor for safety if you have enough money (600 rupees).
 
 Talk to Bludo to activate the Vah Rudania quest.
@@ -382,9 +374,9 @@ Grab the Ice Arrows from the chest, then talk to Yunobo.
 > Optional: There are various two-handed weapons in this room, grab if you feel you might need some (recommended).
 
 Perform a pot launch back to Shae Mo'sah [[Video](https://twitter.com/JKTKops/status/952042607848247297)] and eat your Speed Meal immediately after landing.
+> Optional: You can also teleport to the shrine instead if you activated it before, this is sligthly slower but safer.
 
 Complete **Swinging Flames** [[Video](https://twitter.com/JKTKops/status/952300703678054400)]. `(22/24)`
-> Optional: You can also teleport to the shrine instead if you activated it before, this is sligthly slower but safer.
 
 Talk to Bludo again for Daruk's Memory cutscene.
 
@@ -413,7 +405,7 @@ Defeat Vah Ruta using Shock Arrows.
 
 For the dungeon, use the latest route with 3 Gale charges.
 
-Defeat Waterblight Ganon using one of the Lvl. 3 Attack meals and Shock Arrows. Grab the **Heart Container**.
+Defeat Waterblight Ganon using one of the Lvl. 3 Attack meals and Bomb Arrows. Grab the **Heart Container**.
 
 After obtaining Mipha's Grace, warp back to Daqa Koh Shrine.
 
@@ -424,13 +416,13 @@ Help Yunobo (once again) by defeating the two Moblins. Use 1 fury and the Great 
 
 Bring down the Bridge of Eldin to enter the Vah Rudania fight.
 
-Make sure Yunobo doesn't get caught and kill the sentries with Metal Boxes. Kill the first moblin with bullet-time headshots (extra shock arrows) and kill the second two with a metal box.
+Make sure Yunobo doesn't get caught and kill the sentries with Metal Boxes. Kill the first moblin with bullet-time headshots (extra ice arrows) and kill the second two with a metal box.
 
 > Note: Be sure to use all 3 Urbosa's Fury chargest at some point during the escort. The optimal use for the other two is to kill the first sentry and skip its cycle. Safe backups include saving them for the moblin camps or using all three to save Yunobo.
 
 To complete the dungeon, use the latest Vah Rudania route. This dungeons uses quite a bit of arrows so be prepared. You can get some extra normal arrows from two chests in the central room. Gale charges used: (1/3).
 
-For **Fireblight Ganon**, use the Great Eagle Bow (this bow burns after 33 seconds, so be careful and swap before to restart this timer) and Ice Arrows. Obtain bullet time by jumping off of elevated ground to get headshots and end each phase.
+For **Fireblight Ganon**, use the Great Eagle Bow (this bow burns after 33 seconds, so be careful and swap before to restart this timer) and Shock Arrows. Obtain bullet time by jumping off of elevated ground to get headshots and end each phase.
 > Optional: Show off by jumping off the side of the arena for the final bullet time. 
 
 Grab the **Heart Container** after the fight and get Daruk's Protection.
@@ -453,9 +445,10 @@ Pick up the **Master Sword**.
 ### Hyrule Castle
 
 Teleport to Katah Chuki and enter the Castle from the southwest side near the waterfall.
+> Note: A Vertical Height Launch is the fastest way to enter the castle, but running to the pillar and jumping is also fine.
 
 Use the waterfalls and your gales to reach the Sanctum.
 
-Defeat Calamity Ganon.
+Defeat Calamity Ganon. There are 10 bomb arrows towards the left of the room.
 
 Defeat Beast Ganon.
