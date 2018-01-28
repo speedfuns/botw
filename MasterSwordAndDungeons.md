@@ -176,7 +176,7 @@ Perform a Rocket Launch to the Rito Elder. Activate the Vah Medoh cutscene.
 
 Talk to the Elder, then talk to Saki for Revali's memory cutscene.
 
-Go to the Rito Shop, buy **4 Sunshrooms** and all 3 bundles of **5 Arrows**.
+Go to the Rito Shop, sell the Diamond, buy **4 Sunshrooms** and all 3 bundles of **5 Arrows**.
 > Note: Getting 4 Shrooms is the same speed as getting two, so it's better to get all of them.
 
 Launch to the Sha Warvo shrine and complete **Path of Hidden Winds**. `(10/24)`
