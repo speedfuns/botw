@@ -24,6 +24,7 @@ Credits
 
 ### Changelog
 
+- **2018/01/27** - Added an extra speed food in the desert.
 - **2018/01/25** - Adjusted some minor route details for precision.
 - **2018/01/24** - Complete reroute of the first post-plateau section.
 - **2018/01/18** - Fixed a number of grammar and spelling mistakes. Added a few more video clips. Adjusted food routing.
@@ -133,9 +134,10 @@ Enter Rota Ooh and complete **Passing of the Gates**. `(5/24)`
 Perform a Vertical Height Launch to the Kaam Ya'tak shrine, grabbing the **Hearty Radish** on the way.
 
 Get Edge of Duality and the Diamond from **Test of Power**, complete it [[Half 1](https://twitter.com/JKTKops/status/953826020901072896)] [[Half 2](https://twitter.com/JKTKops/status/953825221374439424)]. `(6/24)`
-> Note: If you use the second bomb boost, be sure to heal first.
+> Note: If you use the second bomb boost, be sure to heal first. It is possible to make the jump without boosting.
 
 Run up the mountain behind Kaam Ya'tak, use the tree at the top to launch towards Giant's Forest.
+> Note: It's usually nighttime at this point. Expect a spawn of 3 stalmoblins here, you can oneshot them with bullet time headshots.
 
 Catch a horse from the pack in the forest, ride it to Katah Chuki.
 > Note: When catching a horse, you're aiming for a 4-speed horse. Some tips: Spotted horses are never 4 speed, the leader is never 4 speed. 2 stamina horses are always 4 speed. 3 Stamina horses can be either 3 or 4 speed. 4 stamina horses *seem* to always be 3 speed.
@@ -160,7 +162,7 @@ Grab the three **Wild Berries** and the **Woodcutter Axe** near the cart.
 
 Perform a Stasis Launch to the area near the Stone Talus.
 
-Climb the mountain.
+Climb the mountain, grabbing the **Rushroom** on the way.
 
 > Optional: Build a campfire with the **Wood** and a **Fire Arrow**, sleep 'till noon (second option). Perform a Stasis Launch to the Bareeda Naag pedestal. As you pass over the location of the shrine, shoot the pedestal with a **Fire Arrow**. Enter Bareeda Naag and complete **Canon** [[Video](https://twitter.com/JKTKops/status/951284655168172033)]. `(9/24)`
 
@@ -174,7 +176,7 @@ Perform a Rocket Launch to the Rito Elder. Activate the Vah Medoh cutscene.
 
 Talk to the Elder, then talk to Saki for Revali's memory cutscene.
 
-Go to the Rito Shop, buy **4 Sunshrooms** and all 3 bundles of **5 Arrows**.
+Go to the Rito Shop, sell the Diamond, buy **4 Sunshrooms** and all 3 bundles of **5 Arrows**.
 > Note: Getting 4 Shrooms is the same speed as getting two, so it's better to get all of them.
 
 Launch to the Sha Warvo shrine and complete **Path of Hidden Winds**. `(10/24)`
@@ -229,7 +231,11 @@ Shield Surf to Kara Kara Bazaar. The Naboris cutscene should activate when you a
 
 Use a Gale charge (1/3) to get on top of the rock and buy the **Gerudo Clothes** (600 rupees).
 
-Glide down and left to grab the **Double Axe** against a tree. Warp back to Daqo Chisay.
+Glide down and left to grab the **Double Axe** against a tree.
+
+Go to the nearby cooking pot, and cook 1 Rushroom, 3 Hot-Footed Frogs, and 1 Ancient Core to obtain a **Lvl 3 Hasty Elixir**.
+
+Warp back to Daqo Chisay.
 
 Use a Gale charge (2/3) to get inside Gerudo Town and head directly to **Riju**, talk to her, then talk to the Gerudo Chief Liana to start the Yiga Clan quest.
 
@@ -242,7 +248,7 @@ Pick up a luminous stone and place it on the pedestal.
 
 Enter Sho Dantu, complete **Two Bombs** [[Video](https://twitter.com/JKTKops/status/953829422691270656)]. `(12/24)`
 
-Evade the enemies and enter the Yiga Clan Hideout.
+Immediately eat the Hasty Elixir. Evade the enemies and enter the Yiga Clan Hideout.
 
 ### Yiga Clan Hideout
 
@@ -258,16 +264,13 @@ Jump and fly directly behind the second guard and run to the ladder.
 Climb the ladder and pick at least **16 Mighty Bananas**.  Burn the middle curtain to your right (in the main room).
 > Note: A Level 3 Attack food is made with 4 bananas, for this route only four Lvl. 3 Attack meals are needed, you can grab extra bananas for healing if you want.
 
-Collect the **Topaz** next to the bananas.
-
 Jump onto the central platform and glide through the burned curtain. Open the two chests for two **Gold Rupees**.
 
 Exit the small room to the left and climb the ladder.
 
 Jump onto the platform and fly behind the guard.
 
-Break the 3 pots to get extra arrows.
-> No DLC: Also use Magnesis to get the chest with a Ruby in it.
+Break the 3 pots to get extra arrows. Use Magnesis to get the chest with a **Ruby** in it.
 
 Use Magnesis on the wall to enter the **Master Kogha** boss fight.
 
@@ -305,19 +308,18 @@ After obtaining **Urbosa's Fury**, warp to Oman Au.
 
 Perform a Stasis Launch with a metal box to the forest area near Lake Kolomo. [[Video](https://twitter.com/JKTKops/status/953780288731172864)]
 
-Kill the nearby octorok, then Height Launch to Wahgo Katta [[Video](https://twitter.com/JKTKops/status/953786740401061889)]  and complete **Metal Connections**  [[Video](https://twitter.com/JKTKops/status/953823431262220289)]. `(14/24)`
+Kill the nearby octorok, heal at least 1/2 heart, then Height Launch to Wahgo Katta [[Video](https://twitter.com/JKTKops/status/953786740401061889)]  and complete **Metal Connections**  [[Video](https://twitter.com/JKTKops/status/953823431262220289)]. `(14/24)`
 
 > Note: After this shrine, the fastest way to cross the Wetlands is by performing several continuous launches. If you want a safer way to do this section, get your horse (needs to be registered) from the stable and try to follow the shrine route without all the launches. Doing it this way loses about 90 seconds over the optimal way. You can also use an Ice Arrow to catch a horse at the pack near Kaya Wan.
 
 Height Launch to Hila Rao, making sure to not land on the flowers [[Video](https://twitter.com/JKTKops/status/953790372441817088)]. Complete **Drifting**. `(15/24)` 
 
 Shield jump over the flowers again and Height Launch north keeping yourself on the left side of the river [[Video](https://twitter.com/JKTKops/status/953481330251059200)].
+> Optional: There is a longer launch chain coming up. It is slower, but much safer, to catch a horse outside the forest by Kaya Wan. If you do so, you can also choose to complete Daka Tuss instead of Shae Loya/Bareeda Naag. Your height launch should cross the river if you go for this, rather than staying on the left. Eat the speed food when you ditch the horse.
 
-Rocket Launch towards Kaya Wan [[Video](https://twitter.com/JKTKops/status/953481820158308352)] and complete **Shields from Water**. `(16/24)`
+Rocket Launch towards Kaya Wan [[Video](https://twitter.com/JKTKops/status/953481820158308352)] and complete **Shields from Water**, obtaining the **Ancient Core** inside. `(16/24)`
 
-Go to the Wetlands Stable.
-> No DLC: If you did not talk to beedle at Outskirt Stable, talk to him now and buy **3 Hot-Footed Frogs**.
-> Optional: Talk to Beedle again to receive an **Ancient Arrow** to use during the escort.
+Go to the Wetlands Stable. Talk to Beedle to recieve an **Ancient Arrow**. Buy 3 Hot-Footed Frogs from him.
 
 Cook 1 Hightail Lizard, 3 Hot-Frooted Frogs and 1 Ancient Core to get a **Lvl. 3 Hasty Elixir**.
 
@@ -358,7 +360,7 @@ Use the Fireproof Elixir and climb the mountains (using all 3 Gale charges) unti
 
 Glide into Goron City. Be careful with the molten rock hail.
 
-Go to the equipment store and sell the Topaz. Buy the **Flamebreaker Boots** (700 Rupees), equip it afterwards.
+Go to the equipment store and sell the Ruby. Buy the **Flamebreaker Boots** (700 Rupees), equip it afterwards.
 > Optional: You can also buy the Flamebreaker Armor for safety if you have enough money (600 rupees).
 
 Talk to Bludo to activate the Vah Rudania quest.
@@ -411,14 +413,13 @@ After obtaining Mipha's Grace, warp back to Daqa Koh Shrine.
 
 ### Divine Beast Vah Rudania
 
-Help Yunobo (once again) by defeating the two Moblins. Use 1 fury and the Great Eagle Bow with Shock Arrows.
-> Optional: Use the Duplex Bow instead for save up the duration of the Great Eagle Bow for later boss fights.
+Help Yunobo (once again) by defeating the two Moblins with all three Urbosa's Furies.
 
 Bring down the Bridge of Eldin to enter the Vah Rudania fight.
 
-Make sure Yunobo doesn't get caught and kill the sentries with Metal Boxes. Kill the first moblin with bullet-time headshots (extra ice arrows) and kill the second two with a metal box.
+Kill the first sentry with your Ancient Arrow to skip its cycle.
 
-> Note: Be sure to use all 3 Urbosa's Fury chargest at some point during the escort. The optimal use for the other two is to kill the first sentry and skip its cycle. Safe backups include saving them for the moblin camps or using all three to save Yunobo.
+Make sure Yunobo doesn't get caught and kill the sentries with Metal Boxes. Kill the first moblin with bullet-time headshots (extra ice arrows) and kill the second two with a metal box.
 
 To complete the dungeon, use the latest Vah Rudania route. This dungeons uses quite a bit of arrows so be prepared. You can get some extra normal arrows from two chests in the central room. Gale charges used: (1/3).
 
